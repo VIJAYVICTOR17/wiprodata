@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB441B7-96BB-429A-8A76-A29FFD3C12B2}|day2_Exercise\\day2_Exercise.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day2\\day2_exercise\\day2_exercise\\arrayexp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB441B7-96BB-429A-8A76-A29FFD3C12B2}|day2_Exercise\\day2_Exercise.csproj|solutionrelative:day2_exercise\\arrayexp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|day2_Exercise||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB441B7-96BB-429A-8A76-A29FFD3C12B2}|day2_Exercise\\day2_Exercise.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day2\\day2_exercise\\day2_exercise\\whileloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB441B7-96BB-429A-8A76-A29FFD3C12B2}|day2_Exercise\\day2_Exercise.csproj|solutionrelative:day2_exercise\\whileloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB441B7-96BB-429A-8A76-A29FFD3C12B2}|day2_Exercise\\day2_Exercise.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day2\\day2_exercise\\day2_exercise\\factors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB441B7-96BB-429A-8A76-A29FFD3C12B2}|day2_Exercise\\day2_Exercise.csproj|solutionrelative:day2_exercise\\factors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB441B7-96BB-429A-8A76-A29FFD3C12B2}|day2_Exercise\\day2_Exercise.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day2\\day2_exercise\\day2_exercise\\circleprog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB441B7-96BB-429A-8A76-A29FFD3C12B2}|day2_Exercise\\day2_Exercise.csproj|solutionrelative:day2_exercise\\circleprog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB441B7-96BB-429A-8A76-A29FFD3C12B2}|day2_Exercise\\day2_Exercise.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day2\\day2_exercise\\day2_exercise\\ifelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB441B7-96BB-429A-8A76-A29FFD3C12B2}|day2_Exercise\\day2_Exercise.csproj|solutionrelative:day2_exercise\\ifelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB441B7-96BB-429A-8A76-A29FFD3C12B2}|day2_Exercise\\day2_Exercise.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day2\\day2_exercise\\day2_exercise\\posneg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB441B7-96BB-429A-8A76-A29FFD3C12B2}|day2_Exercise\\day2_Exercise.csproj|solutionrelative:day2_exercise\\posneg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB441B7-96BB-429A-8A76-A29FFD3C12B2}|day2_Exercise\\day2_Exercise.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day2\\day2_exercise\\day2_exercise\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB441B7-96BB-429A-8A76-A29FFD3C12B2}|day2_Exercise\\day2_Exercise.csproj|solutionrelative:day2_exercise\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB441B7-96BB-429A-8A76-A29FFD3C12B2}|day2_Exercise\\day2_Exercise.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day2\\day2_exercise\\day2_exercise\\reversexmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB441B7-96BB-429A-8A76-A29FFD3C12B2}|day2_Exercise\\day2_Exercise.csproj|solutionrelative:day2_exercise\\reversexmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB441B7-96BB-429A-8A76-A29FFD3C12B2}|day2_Exercise\\day2_Exercise.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day2\\day2_exercise\\day2_exercise\\milstoneexmp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB441B7-96BB-429A-8A76-A29FFD3C12B2}|day2_Exercise\\day2_Exercise.csproj|solutionrelative:day2_exercise\\milstoneexmp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB441B7-96BB-429A-8A76-A29FFD3C12B2}|day2_Exercise\\day2_Exercise.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day2\\day2_exercise\\day2_exercise\\milestoneexp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB441B7-96BB-429A-8A76-A29FFD3C12B2}|day2_Exercise\\day2_Exercise.csproj|solutionrelative:day2_exercise\\milestoneexp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB441B7-96BB-429A-8A76-A29FFD3C12B2}|day2_Exercise\\day2_Exercise.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day2\\day2_exercise\\day2_exercise\\voting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB441B7-96BB-429A-8A76-A29FFD3C12B2}|day2_Exercise\\day2_Exercise.csproj|solutionrelative:day2_exercise\\voting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB441B7-96BB-429A-8A76-A29FFD3C12B2}|day2_Exercise\\day2_Exercise.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day2\\day2_exercise\\day2_exercise\\perfect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB441B7-96BB-429A-8A76-A29FFD3C12B2}|day2_Exercise\\day2_Exercise.csproj|solutionrelative:day2_exercise\\perfect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB441B7-96BB-429A-8A76-A29FFD3C12B2}|day2_Exercise\\day2_Exercise.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day2\\day2_exercise\\day2_exercise\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB441B7-96BB-429A-8A76-A29FFD3C12B2}|day2_Exercise\\day2_Exercise.csproj|solutionrelative:day2_exercise\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB441B7-96BB-429A-8A76-A29FFD3C12B2}|day2_Exercise\\day2_Exercise.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day2\\day2_exercise\\day2_exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB441B7-96BB-429A-8A76-A29FFD3C12B2}|day2_Exercise\\day2_Exercise.csproj|solutionrelative:day2_exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB441B7-96BB-429A-8A76-A29FFD3C12B2}|day2_Exercise\\day2_Exercise.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day2\\day2_exercise\\day2_exercise\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayExp.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\ArrayExp.cs",
+              "RelativeDocumentMoniker": "day2_Exercise\\ArrayExp.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\ArrayExp.cs",
+              "RelativeToolTip": "day2_Exercise\\ArrayExp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T17:14:53.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WhileLoop.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\WhileLoop.cs",
+              "RelativeDocumentMoniker": "day2_Exercise\\WhileLoop.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\WhileLoop.cs",
+              "RelativeToolTip": "day2_Exercise\\WhileLoop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T16:54:17.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Factors.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\Factors.cs",
+              "RelativeDocumentMoniker": "day2_Exercise\\Factors.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\Factors.cs",
+              "RelativeToolTip": "day2_Exercise\\Factors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T16:41:17.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Factorial.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\Factorial.cs",
+              "RelativeDocumentMoniker": "day2_Exercise\\Factorial.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\Factorial.cs",
+              "RelativeToolTip": "day2_Exercise\\Factorial.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:39:26.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MilstoneExmp1.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\MilstoneExmp1.cs",
+              "RelativeDocumentMoniker": "day2_Exercise\\MilstoneExmp1.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\MilstoneExmp1.cs",
+              "RelativeToolTip": "day2_Exercise\\MilstoneExmp1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T10:53:43.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "reversExmp.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\reversExmp.cs",
+              "RelativeDocumentMoniker": "day2_Exercise\\reversExmp.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\reversExmp.cs",
+              "RelativeToolTip": "day2_Exercise\\reversExmp.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T09:40:48.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PosNeg.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\PosNeg.cs",
+              "RelativeDocumentMoniker": "day2_Exercise\\PosNeg.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\PosNeg.cs",
+              "RelativeToolTip": "day2_Exercise\\PosNeg.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T08:46:04.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ifElse.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\ifElse.cs",
+              "RelativeDocumentMoniker": "day2_Exercise\\ifElse.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\ifElse.cs",
+              "RelativeToolTip": "day2_Exercise\\ifElse.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T08:36:02.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CircleProg.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\CircleProg.cs",
+              "RelativeDocumentMoniker": "day2_Exercise\\CircleProg.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\CircleProg.cs",
+              "RelativeToolTip": "day2_Exercise\\CircleProg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T07:55:29.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "day2_Exercise",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\day2_Exercise.csproj",
+              "RelativeDocumentMoniker": "day2_Exercise\\day2_Exercise.csproj",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\day2_Exercise.csproj*",
+              "RelativeToolTip": "day2_Exercise\\day2_Exercise.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-22T07:40:21.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MilestoneExp2.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\MilestoneExp2.cs",
+              "RelativeDocumentMoniker": "day2_Exercise\\MilestoneExp2.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\MilestoneExp2.cs",
+              "RelativeToolTip": "day2_Exercise\\MilestoneExp2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:03:38.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Voting.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\Voting.cs",
+              "RelativeDocumentMoniker": "day2_Exercise\\Voting.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\Voting.cs",
+              "RelativeToolTip": "day2_Exercise\\Voting.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:10:38.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Perfect.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\Perfect.cs",
+              "RelativeDocumentMoniker": "day2_Exercise\\Perfect.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\Perfect.cs",
+              "RelativeToolTip": "day2_Exercise\\Perfect.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:18:54.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\Calculation.cs",
+              "RelativeDocumentMoniker": "day2_Exercise\\Calculation.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\Calculation.cs",
+              "RelativeToolTip": "day2_Exercise\\Calculation.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowCEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T07:29:35.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\Program.cs",
+              "RelativeDocumentMoniker": "day2_Exercise\\Program.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day2\\day2_Exercise\\day2_Exercise\\Program.cs",
+              "RelativeToolTip": "day2_Exercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T07:27:15.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

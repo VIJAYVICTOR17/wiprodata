@@ -1,0 +1,8 @@
+C:\Users\victo\Downloads\Wipro_Training\practice_day2\day2_Exercise\day2_Exercise\obj\Debug\day2_Exercise.csproj.AssemblyReference.cache
+C:\Users\victo\Downloads\Wipro_Training\practice_day2\day2_Exercise\day2_Exercise\obj\Debug\day2_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\victo\Downloads\Wipro_Training\practice_day2\day2_Exercise\day2_Exercise\bin\Debug\day2_Exercise.exe.config
+C:\Users\victo\Downloads\Wipro_Training\practice_day2\day2_Exercise\day2_Exercise\bin\Debug\day2_Exercise.exe
+C:\Users\victo\Downloads\Wipro_Training\practice_day2\day2_Exercise\day2_Exercise\bin\Debug\day2_Exercise.pdb
+C:\Users\victo\Downloads\Wipro_Training\practice_day2\day2_Exercise\day2_Exercise\obj\Debug\day2_Exercise.exe
+C:\Users\victo\Downloads\Wipro_Training\practice_day2\day2_Exercise\day2_Exercise\obj\Debug\day2_Exercise.pdb
+C:\Users\victo\Downloads\Wipro_Training\practice_day2\day2_Exercise\day2_Exercise\obj\Debug\day2_Exercise.exe.config
