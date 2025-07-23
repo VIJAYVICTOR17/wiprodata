@@ -1,0 +1,10 @@
+C:\Users\victo\Downloads\Wipro_Training\practice_day3Org\ClaculationLibrary1\ClaculationClient\bin\Debug\ClaculationClient.exe.config
+C:\Users\victo\Downloads\Wipro_Training\practice_day3Org\ClaculationLibrary1\ClaculationClient\bin\Debug\ClaculationClient.exe
+C:\Users\victo\Downloads\Wipro_Training\practice_day3Org\ClaculationLibrary1\ClaculationClient\bin\Debug\ClaculationClient.pdb
+C:\Users\victo\Downloads\Wipro_Training\practice_day3Org\ClaculationLibrary1\ClaculationClient\bin\Debug\ClaculationLibrary1.dll
+C:\Users\victo\Downloads\Wipro_Training\practice_day3Org\ClaculationLibrary1\ClaculationClient\bin\Debug\ClaculationLibrary1.pdb
+C:\Users\victo\Downloads\Wipro_Training\practice_day3Org\ClaculationLibrary1\ClaculationClient\obj\Debug\ClaculationClient.csproj.AssemblyReference.cache
+C:\Users\victo\Downloads\Wipro_Training\practice_day3Org\ClaculationLibrary1\ClaculationClient\obj\Debug\ClaculationClient.csproj.CoreCompileInputs.cache
+C:\Users\victo\Downloads\Wipro_Training\practice_day3Org\ClaculationLibrary1\ClaculationClient\obj\Debug\Claculat.A15BDE3F.Up2Date
+C:\Users\victo\Downloads\Wipro_Training\practice_day3Org\ClaculationLibrary1\ClaculationClient\obj\Debug\ClaculationClient.exe
+C:\Users\victo\Downloads\Wipro_Training\practice_day3Org\ClaculationLibrary1\ClaculationClient\obj\Debug\ClaculationClient.pdb

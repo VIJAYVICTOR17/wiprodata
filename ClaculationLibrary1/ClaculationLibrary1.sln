@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaculationLibrary1", "ClaculationLibrary1\ClaculationLibrary1.csproj", "{98DD1D3E-5BFF-4D00-90BD-D79AFA592168}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaculationClient", "ClaculationClient\ClaculationClient.csproj", "{ED0F3AE3-9A9D-4C7F-8356-8672D674556F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98DD1D3E-5BFF-4D00-90BD-D79AFA592168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98DD1D3E-5BFF-4D00-90BD-D79AFA592168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98DD1D3E-5BFF-4D00-90BD-D79AFA592168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98DD1D3E-5BFF-4D00-90BD-D79AFA592168}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED0F3AE3-9A9D-4C7F-8356-8672D674556F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED0F3AE3-9A9D-4C7F-8356-8672D674556F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED0F3AE3-9A9D-4C7F-8356-8672D674556F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED0F3AE3-9A9D-4C7F-8356-8672D674556F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E93E2D9A-3D22-41D8-93E7-63D48325AF97}
+	EndGlobalSection
+EndGlobal

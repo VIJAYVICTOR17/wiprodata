@@ -1,0 +1,8 @@
+C:\Users\victo\Downloads\Wipro_Training\practice_day3Org\day3_progs\day3_progs\bin\Debug\day3_progs.exe.config
+C:\Users\victo\Downloads\Wipro_Training\practice_day3Org\day3_progs\day3_progs\bin\Debug\day3_progs.exe
+C:\Users\victo\Downloads\Wipro_Training\practice_day3Org\day3_progs\day3_progs\bin\Debug\day3_progs.pdb
+C:\Users\victo\Downloads\Wipro_Training\practice_day3Org\day3_progs\day3_progs\obj\Debug\day3_progs.csproj.AssemblyReference.cache
+C:\Users\victo\Downloads\Wipro_Training\practice_day3Org\day3_progs\day3_progs\obj\Debug\day3_progs.csproj.CoreCompileInputs.cache
+C:\Users\victo\Downloads\Wipro_Training\practice_day3Org\day3_progs\day3_progs\obj\Debug\day3_progs.exe
+C:\Users\victo\Downloads\Wipro_Training\practice_day3Org\day3_progs\day3_progs\obj\Debug\day3_progs.pdb
+C:\Users\victo\Downloads\Wipro_Training\practice_day3Org\day3_progs\day3_progs\obj\Debug\day3_progs.exe.config
