@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\day4_progs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FAAF3A-AE1A-4E44-B062-A2D2508153CF}|day4_progs\\day4_progs.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day4\\day4_progs\\day4_progs\\staticmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FAAF3A-AE1A-4E44-B062-A2D2508153CF}|day4_progs\\day4_progs.csproj|solutionrelative:day4_progs\\staticmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|day4_progs||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FAAF3A-AE1A-4E44-B062-A2D2508153CF}|day4_progs\\day4_progs.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day4\\day4_progs\\day4_progs\\staticexten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FAAF3A-AE1A-4E44-B062-A2D2508153CF}|day4_progs\\day4_progs.csproj|solutionrelative:day4_progs\\staticexten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FAAF3A-AE1A-4E44-B062-A2D2508153CF}|day4_progs\\day4_progs.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day4\\day4_progs\\day4_progs\\staticexp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FAAF3A-AE1A-4E44-B062-A2D2508153CF}|day4_progs\\day4_progs.csproj|solutionrelative:day4_progs\\staticexp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FAAF3A-AE1A-4E44-B062-A2D2508153CF}|day4_progs\\day4_progs.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day4\\day4_progs\\day4_progs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FAAF3A-AE1A-4E44-B062-A2D2508153CF}|day4_progs\\day4_progs.csproj|solutionrelative:day4_progs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FAAF3A-AE1A-4E44-B062-A2D2508153CF}|day4_progs\\day4_progs.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day4\\day4_progs\\day4_progs\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaticMethod.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\day4_progs\\day4_progs\\StaticMethod.cs",
+              "RelativeDocumentMoniker": "day4_progs\\StaticMethod.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\day4_progs\\day4_progs\\StaticMethod.cs",
+              "RelativeToolTip": "day4_progs\\StaticMethod.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:01:45.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "day4_progs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\day4_progs\\day4_progs\\day4_progs.csproj",
+              "RelativeDocumentMoniker": "day4_progs\\day4_progs.csproj",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\day4_progs\\day4_progs\\day4_progs.csproj",
+              "RelativeToolTip": "day4_progs\\day4_progs.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-24T06:33:07.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StaticExp.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\day4_progs\\day4_progs\\StaticExp.cs",
+              "RelativeDocumentMoniker": "day4_progs\\StaticExp.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\day4_progs\\day4_progs\\StaticExp.cs",
+              "RelativeToolTip": "day4_progs\\StaticExp.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:30:27.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\day4_progs\\day4_progs\\Program.cs",
+              "RelativeDocumentMoniker": "day4_progs\\Program.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\day4_progs\\day4_progs\\Program.cs",
+              "RelativeToolTip": "day4_progs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:29:02.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaticExten.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\day4_progs\\day4_progs\\StaticExten.cs",
+              "RelativeDocumentMoniker": "day4_progs\\StaticExten.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\day4_progs\\day4_progs\\StaticExten.cs",
+              "RelativeToolTip": "day4_progs\\StaticExten.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:46:11.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

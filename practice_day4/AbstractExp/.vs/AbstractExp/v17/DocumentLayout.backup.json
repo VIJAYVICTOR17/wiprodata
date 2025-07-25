@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\AbstractExp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AbstractExp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E363C5-5C9F-4EDC-8CFC-2D74C2F82875}|AbstractExp\\AbstractExp.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day4\\abstractexp\\abstractexp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E363C5-5C9F-4EDC-8CFC-2D74C2F82875}|AbstractExp\\AbstractExp.csproj|solutionrelative:abstractexp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E363C5-5C9F-4EDC-8CFC-2D74C2F82875}|AbstractExp\\AbstractExp.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day4\\abstractexp\\abstractexp\\persondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E363C5-5C9F-4EDC-8CFC-2D74C2F82875}|AbstractExp\\AbstractExp.csproj|solutionrelative:abstractexp\\persondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E363C5-5C9F-4EDC-8CFC-2D74C2F82875}|AbstractExp\\AbstractExp.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day4\\abstractexp\\abstractexp\\siddu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E363C5-5C9F-4EDC-8CFC-2D74C2F82875}|AbstractExp\\AbstractExp.csproj|solutionrelative:abstractexp\\siddu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E363C5-5C9F-4EDC-8CFC-2D74C2F82875}|AbstractExp\\AbstractExp.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day4\\abstractexp\\abstractexp\\deva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E363C5-5C9F-4EDC-8CFC-2D74C2F82875}|AbstractExp\\AbstractExp.csproj|solutionrelative:abstractexp\\deva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E363C5-5C9F-4EDC-8CFC-2D74C2F82875}|AbstractExp\\AbstractExp.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day4\\abstractexp\\abstractexp\\vijay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E363C5-5C9F-4EDC-8CFC-2D74C2F82875}|AbstractExp\\AbstractExp.csproj|solutionrelative:abstractexp\\vijay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E363C5-5C9F-4EDC-8CFC-2D74C2F82875}|AbstractExp\\AbstractExp.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day4\\abstractexp\\abstractexp\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Siddu.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\AbstractExp\\AbstractExp\\Siddu.cs",
+              "RelativeDocumentMoniker": "AbstractExp\\Siddu.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\AbstractExp\\AbstractExp\\Siddu.cs",
+              "RelativeToolTip": "AbstractExp\\Siddu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:53:30.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Deva.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\AbstractExp\\AbstractExp\\Deva.cs",
+              "RelativeDocumentMoniker": "AbstractExp\\Deva.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\AbstractExp\\AbstractExp\\Deva.cs",
+              "RelativeToolTip": "AbstractExp\\Deva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:52:16.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vijay.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\AbstractExp\\AbstractExp\\Vijay.cs",
+              "RelativeDocumentMoniker": "AbstractExp\\Vijay.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\AbstractExp\\AbstractExp\\Vijay.cs",
+              "RelativeToolTip": "AbstractExp\\Vijay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:46:42.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AbstractExp",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\AbstractExp\\AbstractExp\\AbstractExp.csproj",
+              "RelativeDocumentMoniker": "AbstractExp\\AbstractExp.csproj",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\AbstractExp\\AbstractExp\\AbstractExp.csproj",
+              "RelativeToolTip": "AbstractExp\\AbstractExp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-24T07:45:05.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonDetails.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\AbstractExp\\AbstractExp\\PersonDetails.cs",
+              "RelativeDocumentMoniker": "AbstractExp\\PersonDetails.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\AbstractExp\\AbstractExp\\PersonDetails.cs",
+              "RelativeToolTip": "AbstractExp\\PersonDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:40:41.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\AbstractExp\\AbstractExp\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractExp\\Program.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\AbstractExp\\AbstractExp\\Program.cs",
+              "RelativeToolTip": "AbstractExp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:38:33.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

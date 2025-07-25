@@ -1,0 +1,7 @@
+C:\Users\victo\Downloads\Wipro_Training\practice_day4\InterfaceTest\InterfaceTest\obj\Debug\InterfaceTest.csproj.AssemblyReference.cache
+C:\Users\victo\Downloads\Wipro_Training\practice_day4\InterfaceTest\InterfaceTest\obj\Debug\InterfaceTest.csproj.CoreCompileInputs.cache
+C:\Users\victo\Downloads\Wipro_Training\practice_day4\InterfaceTest\InterfaceTest\bin\Debug\InterfaceTest.exe.config
+C:\Users\victo\Downloads\Wipro_Training\practice_day4\InterfaceTest\InterfaceTest\bin\Debug\InterfaceTest.exe
+C:\Users\victo\Downloads\Wipro_Training\practice_day4\InterfaceTest\InterfaceTest\bin\Debug\InterfaceTest.pdb
+C:\Users\victo\Downloads\Wipro_Training\practice_day4\InterfaceTest\InterfaceTest\obj\Debug\InterfaceTest.exe
+C:\Users\victo\Downloads\Wipro_Training\practice_day4\InterfaceTest\InterfaceTest\obj\Debug\InterfaceTest.pdb

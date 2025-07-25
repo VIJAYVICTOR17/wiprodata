@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>day3_progs.Overload2</StartupObject>
+    <StartupObject>day3_progs.Inheritance</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,7 +47,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Array2d.cs" />
+    <Compile Include="ConstracExp.cs" />
+    <Compile Include="ConstracOverload.cs" />
     <Compile Include="CstmInput.cs" />
+    <Compile Include="Inheritance.cs" />
     <Compile Include="JaggedArray.cs" />
     <Compile Include="Mcq.cs" />
     <Compile Include="MemCheck.cs" />

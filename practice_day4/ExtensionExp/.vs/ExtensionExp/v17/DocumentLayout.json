@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\ExtensionExp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A56EAD37-A7B6-4922-B825-736E3392E0B0}|ExtensionExp\\ExtensionExp.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day4\\extensionexp\\extensionexp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A56EAD37-A7B6-4922-B825-736E3392E0B0}|ExtensionExp\\ExtensionExp.csproj|solutionrelative:extensionexp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A56EAD37-A7B6-4922-B825-736E3392E0B0}|ExtensionExp\\ExtensionExp.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day4\\extensionexp\\extensionexp\\claculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A56EAD37-A7B6-4922-B825-736E3392E0B0}|ExtensionExp\\ExtensionExp.csproj|solutionrelative:extensionexp\\claculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ExtensionExp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A56EAD37-A7B6-4922-B825-736E3392E0B0}|ExtensionExp\\ExtensionExp.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day4\\extensionexp\\extensionexp\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A56EAD37-A7B6-4922-B825-736E3392E0B0}|ExtensionExp\\ExtensionExp.csproj|solutionrelative:extensionexp\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A56EAD37-A7B6-4922-B825-736E3392E0B0}|ExtensionExp\\ExtensionExp.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day4\\extensionexp\\extensionexp\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExtensionExp",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\ExtensionExp\\ExtensionExp\\ExtensionExp.csproj",
+              "RelativeDocumentMoniker": "ExtensionExp\\ExtensionExp.csproj",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\ExtensionExp\\ExtensionExp\\ExtensionExp.csproj",
+              "RelativeToolTip": "ExtensionExp\\ExtensionExp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-24T09:45:06.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\ExtensionExp\\ExtensionExp\\Extension.cs",
+              "RelativeDocumentMoniker": "ExtensionExp\\Extension.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\ExtensionExp\\ExtensionExp\\Extension.cs",
+              "RelativeToolTip": "ExtensionExp\\Extension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:41:38.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Claculation.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\ExtensionExp\\ExtensionExp\\Claculation.cs",
+              "RelativeDocumentMoniker": "ExtensionExp\\Claculation.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\ExtensionExp\\ExtensionExp\\Claculation.cs",
+              "RelativeToolTip": "ExtensionExp\\Claculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:35:42.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\ExtensionExp\\ExtensionExp\\Program.cs",
+              "RelativeDocumentMoniker": "ExtensionExp\\Program.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day4\\ExtensionExp\\ExtensionExp\\Program.cs",
+              "RelativeToolTip": "ExtensionExp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:35:10.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
