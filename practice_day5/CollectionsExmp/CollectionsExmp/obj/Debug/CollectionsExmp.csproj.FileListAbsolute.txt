@@ -1,0 +1,8 @@
+C:\Users\victo\Downloads\Wipro_Training\practice_day5\CollectionsExmp\CollectionsExmp\bin\Debug\CollectionsExmp.exe.config
+C:\Users\victo\Downloads\Wipro_Training\practice_day5\CollectionsExmp\CollectionsExmp\bin\Debug\CollectionsExmp.exe
+C:\Users\victo\Downloads\Wipro_Training\practice_day5\CollectionsExmp\CollectionsExmp\bin\Debug\CollectionsExmp.pdb
+C:\Users\victo\Downloads\Wipro_Training\practice_day5\CollectionsExmp\CollectionsExmp\obj\Debug\CollectionsExmp.csproj.AssemblyReference.cache
+C:\Users\victo\Downloads\Wipro_Training\practice_day5\CollectionsExmp\CollectionsExmp\obj\Debug\CollectionsExmp.csproj.CoreCompileInputs.cache
+C:\Users\victo\Downloads\Wipro_Training\practice_day5\CollectionsExmp\CollectionsExmp\obj\Debug\CollectionsExmp.exe
+C:\Users\victo\Downloads\Wipro_Training\practice_day5\CollectionsExmp\CollectionsExmp\obj\Debug\CollectionsExmp.pdb
+C:\Users\victo\Downloads\Wipro_Training\practice_day5\CollectionsExmp\CollectionsExmp\obj\Debug\CollectionsExmp.exe.config

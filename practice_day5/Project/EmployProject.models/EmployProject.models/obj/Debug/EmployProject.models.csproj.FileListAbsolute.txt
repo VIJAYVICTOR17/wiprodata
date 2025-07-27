@@ -1,0 +1,6 @@
+C:\Users\victo\Downloads\Wipro_Training\practice_day5\Project\EmployProject.models\EmployProject.models\bin\Debug\EmployProject.models.dll
+C:\Users\victo\Downloads\Wipro_Training\practice_day5\Project\EmployProject.models\EmployProject.models\bin\Debug\EmployProject.models.pdb
+C:\Users\victo\Downloads\Wipro_Training\practice_day5\Project\EmployProject.models\EmployProject.models\obj\Debug\EmployProject.models.csproj.AssemblyReference.cache
+C:\Users\victo\Downloads\Wipro_Training\practice_day5\Project\EmployProject.models\EmployProject.models\obj\Debug\EmployProject.models.csproj.CoreCompileInputs.cache
+C:\Users\victo\Downloads\Wipro_Training\practice_day5\Project\EmployProject.models\EmployProject.models\obj\Debug\EmployProject.models.dll
+C:\Users\victo\Downloads\Wipro_Training\practice_day5\Project\EmployProject.models\EmployProject.models\obj\Debug\EmployProject.models.pdb

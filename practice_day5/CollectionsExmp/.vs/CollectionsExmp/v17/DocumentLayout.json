@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day5\\CollectionsExmp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8CF34-96B7-497A-92C1-8487A46AEC55}|CollectionsExmp\\CollectionsExmp.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day5\\collectionsexmp\\collectionsexmp\\stackexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8CF34-96B7-497A-92C1-8487A46AEC55}|CollectionsExmp\\CollectionsExmp.csproj|solutionrelative:collectionsexmp\\stackexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CollectionsExmp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8CF34-96B7-497A-92C1-8487A46AEC55}|CollectionsExmp\\CollectionsExmp.csproj|C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day5\\CollectionsExmp\\collectionsexmp\\outputparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8CF34-96B7-497A-92C1-8487A46AEC55}|CollectionsExmp\\CollectionsExmp.csproj|solutionrelative:collectionsexmp\\outputparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8CF34-96B7-497A-92C1-8487A46AEC55}|CollectionsExmp\\CollectionsExmp.csproj|C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day5\\CollectionsExmp\\collectionsexmp\\arraylt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8CF34-96B7-497A-92C1-8487A46AEC55}|CollectionsExmp\\CollectionsExmp.csproj|solutionrelative:collectionsexmp\\arraylt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8CF34-96B7-497A-92C1-8487A46AEC55}|CollectionsExmp\\CollectionsExmp.csproj|C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day5\\CollectionsExmp\\collectionsexmp\\getset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8CF34-96B7-497A-92C1-8487A46AEC55}|CollectionsExmp\\CollectionsExmp.csproj|solutionrelative:collectionsexmp\\getset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8CF34-96B7-497A-92C1-8487A46AEC55}|CollectionsExmp\\CollectionsExmp.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day5\\collectionsexmp\\collectionsexmp\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StackExample.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day5\\CollectionsExmp\\CollectionsExmp\\StackExample.cs",
+              "RelativeDocumentMoniker": "CollectionsExmp\\StackExample.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day5\\CollectionsExmp\\CollectionsExmp\\StackExample.cs",
+              "RelativeToolTip": "CollectionsExmp\\StackExample.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:53:43.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OutputParams.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day5\\CollectionsExmp\\CollectionsExmp\\OutputParams.cs",
+              "RelativeDocumentMoniker": "CollectionsExmp\\OutputParams.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day5\\CollectionsExmp\\CollectionsExmp\\OutputParams.cs",
+              "RelativeToolTip": "CollectionsExmp\\OutputParams.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:23:51.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetSet.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day5\\CollectionsExmp\\CollectionsExmp\\GetSet.cs",
+              "RelativeDocumentMoniker": "CollectionsExmp\\GetSet.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day5\\CollectionsExmp\\CollectionsExmp\\GetSet.cs",
+              "RelativeToolTip": "CollectionsExmp\\GetSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:20:27.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollectionsExmp",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day5\\CollectionsExmp\\CollectionsExmp\\CollectionsExmp.csproj",
+              "RelativeDocumentMoniker": "CollectionsExmp\\CollectionsExmp.csproj",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day5\\CollectionsExmp\\CollectionsExmp\\CollectionsExmp.csproj",
+              "RelativeToolTip": "CollectionsExmp\\CollectionsExmp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-25T09:17:35.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArrayLt.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day5\\CollectionsExmp\\CollectionsExmp\\ArrayLt.cs",
+              "RelativeDocumentMoniker": "CollectionsExmp\\ArrayLt.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day5\\CollectionsExmp\\CollectionsExmp\\ArrayLt.cs",
+              "RelativeToolTip": "CollectionsExmp\\ArrayLt.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:55:56.433Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
