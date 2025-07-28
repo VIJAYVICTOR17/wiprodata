@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day7\\Reflections\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{338E32BB-4C08-4966-B050-49C4F74DB9AB}|Reflections\\Reflections.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day7\\reflections\\reflections\\assembly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E32BB-4C08-4966-B050-49C4F74DB9AB}|Reflections\\Reflections.csproj|solutionrelative:reflections\\assembly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Reflections||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E32BB-4C08-4966-B050-49C4F74DB9AB}|Reflections\\Reflections.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day7\\reflections\\reflections\\obsoleteexmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E32BB-4C08-4966-B050-49C4F74DB9AB}|Reflections\\Reflections.csproj|solutionrelative:reflections\\obsoleteexmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E32BB-4C08-4966-B050-49C4F74DB9AB}|Reflections\\Reflections.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day7\\reflections\\reflections\\interopexmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E32BB-4C08-4966-B050-49C4F74DB9AB}|Reflections\\Reflections.csproj|solutionrelative:reflections\\interopexmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E32BB-4C08-4966-B050-49C4F74DB9AB}|Reflections\\Reflections.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day7\\reflections\\reflections\\typeof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E32BB-4C08-4966-B050-49C4F74DB9AB}|Reflections\\Reflections.csproj|solutionrelative:reflections\\typeof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E32BB-4C08-4966-B050-49C4F74DB9AB}|Reflections\\Reflections.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day7\\reflections\\reflections\\reflectionexmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E32BB-4C08-4966-B050-49C4F74DB9AB}|Reflections\\Reflections.csproj|solutionrelative:reflections\\reflectionexmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E32BB-4C08-4966-B050-49C4F74DB9AB}|Reflections\\Reflections.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day7\\reflections\\reflections\\studet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E32BB-4C08-4966-B050-49C4F74DB9AB}|Reflections\\Reflections.csproj|solutionrelative:reflections\\studet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E32BB-4C08-4966-B050-49C4F74DB9AB}|Reflections\\Reflections.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day7\\reflections\\reflections\\testcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E32BB-4C08-4966-B050-49C4F74DB9AB}|Reflections\\Reflections.csproj|solutionrelative:reflections\\testcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E32BB-4C08-4966-B050-49C4F74DB9AB}|Reflections\\Reflections.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day7\\reflections\\reflections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E32BB-4C08-4966-B050-49C4F74DB9AB}|Reflections\\Reflections.csproj|solutionrelative:reflections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E32BB-4C08-4966-B050-49C4F74DB9AB}|Reflections\\Reflections.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day7\\reflections\\reflections\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Assembly.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day7\\Reflections\\Reflections\\Assembly.cs",
+              "RelativeDocumentMoniker": "Reflections\\Assembly.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day7\\Reflections\\Reflections\\Assembly.cs",
+              "RelativeToolTip": "Reflections\\Assembly.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:13:31.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InteropExmp.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day7\\Reflections\\Reflections\\InteropExmp.cs",
+              "RelativeDocumentMoniker": "Reflections\\InteropExmp.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day7\\Reflections\\Reflections\\InteropExmp.cs",
+              "RelativeToolTip": "Reflections\\InteropExmp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:10:15.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObsoleteExmp.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day7\\Reflections\\Reflections\\ObsoleteExmp.cs",
+              "RelativeDocumentMoniker": "Reflections\\ObsoleteExmp.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day7\\Reflections\\Reflections\\ObsoleteExmp.cs",
+              "RelativeToolTip": "Reflections\\ObsoleteExmp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:05:01.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TypeOf.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day7\\Reflections\\Reflections\\TypeOf.cs",
+              "RelativeDocumentMoniker": "Reflections\\TypeOf.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day7\\Reflections\\Reflections\\TypeOf.cs",
+              "RelativeToolTip": "Reflections\\TypeOf.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:02:01.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReflectionExmp.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day7\\Reflections\\Reflections\\ReflectionExmp.cs",
+              "RelativeDocumentMoniker": "Reflections\\ReflectionExmp.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day7\\Reflections\\Reflections\\ReflectionExmp.cs",
+              "RelativeToolTip": "Reflections\\ReflectionExmp.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:56:50.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StuDet.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day7\\Reflections\\Reflections\\StuDet.cs",
+              "RelativeDocumentMoniker": "Reflections\\StuDet.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day7\\Reflections\\Reflections\\StuDet.cs",
+              "RelativeToolTip": "Reflections\\StuDet.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwC4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:43:32.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reflections",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day7\\Reflections\\Reflections\\Reflections.csproj",
+              "RelativeDocumentMoniker": "Reflections\\Reflections.csproj",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day7\\Reflections\\Reflections\\Reflections.csproj",
+              "RelativeToolTip": "Reflections\\Reflections.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-28T09:42:36.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Testcs.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day7\\Reflections\\Reflections\\Testcs.cs",
+              "RelativeDocumentMoniker": "Reflections\\Testcs.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day7\\Reflections\\Reflections\\Testcs.cs",
+              "RelativeToolTip": "Reflections\\Testcs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:41:35.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day7\\Reflections\\Reflections\\Program.cs",
+              "RelativeDocumentMoniker": "Reflections\\Program.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day7\\Reflections\\Reflections\\Program.cs",
+              "RelativeToolTip": "Reflections\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:39:16.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
