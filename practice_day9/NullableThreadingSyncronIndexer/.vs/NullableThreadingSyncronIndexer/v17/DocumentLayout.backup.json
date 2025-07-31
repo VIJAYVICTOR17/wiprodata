@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day9\\NullableThreadingSyncronIndexer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC2D4B4-0541-4E54-80C6-D354E0FC7B01}|NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day9\\nullablethreadingsyncronindexer\\nullablethreadingsyncronindexer\\synchronizationexmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC2D4B4-0541-4E54-80C6-D354E0FC7B01}|NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer.csproj|solutionrelative:nullablethreadingsyncronindexer\\synchronizationexmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|NullableThreadingSyncronIndexer||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC2D4B4-0541-4E54-80C6-D354E0FC7B01}|NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day9\\nullablethreadingsyncronindexer\\nullablethreadingsyncronindexer\\threadexmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC2D4B4-0541-4E54-80C6-D354E0FC7B01}|NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer.csproj|solutionrelative:nullablethreadingsyncronindexer\\threadexmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC2D4B4-0541-4E54-80C6-D354E0FC7B01}|NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day9\\nullablethreadingsyncronindexer\\nullablethreadingsyncronindexer\\indexerexmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC2D4B4-0541-4E54-80C6-D354E0FC7B01}|NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer.csproj|solutionrelative:nullablethreadingsyncronindexer\\indexerexmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC2D4B4-0541-4E54-80C6-D354E0FC7B01}|NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day9\\nullablethreadingsyncronindexer\\nullablethreadingsyncronindexer\\nullableexmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC2D4B4-0541-4E54-80C6-D354E0FC7B01}|NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer.csproj|solutionrelative:nullablethreadingsyncronindexer\\nullableexmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC2D4B4-0541-4E54-80C6-D354E0FC7B01}|NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day9\\nullablethreadingsyncronindexer\\nullablethreadingsyncronindexer\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC2D4B4-0541-4E54-80C6-D354E0FC7B01}|NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer.csproj|solutionrelative:nullablethreadingsyncronindexer\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC2D4B4-0541-4E54-80C6-D354E0FC7B01}|NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day9\\nullablethreadingsyncronindexer\\nullablethreadingsyncronindexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC2D4B4-0541-4E54-80C6-D354E0FC7B01}|NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer.csproj|solutionrelative:nullablethreadingsyncronindexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC2D4B4-0541-4E54-80C6-D354E0FC7B01}|NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day9\\nullablethreadingsyncronindexer\\nullablethreadingsyncronindexer\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SynchronizationExmp.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day9\\NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer\\SynchronizationExmp.cs",
+              "RelativeDocumentMoniker": "NullableThreadingSyncronIndexer\\SynchronizationExmp.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day9\\NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer\\SynchronizationExmp.cs",
+              "RelativeToolTip": "NullableThreadingSyncronIndexer\\SynchronizationExmp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:25:49.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThreadExmp.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day9\\NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer\\ThreadExmp.cs",
+              "RelativeDocumentMoniker": "NullableThreadingSyncronIndexer\\ThreadExmp.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day9\\NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer\\ThreadExmp.cs",
+              "RelativeToolTip": "NullableThreadingSyncronIndexer\\ThreadExmp.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:11:28.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IndexerExmp.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day9\\NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer\\IndexerExmp.cs",
+              "RelativeDocumentMoniker": "NullableThreadingSyncronIndexer\\IndexerExmp.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day9\\NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer\\IndexerExmp.cs",
+              "RelativeToolTip": "NullableThreadingSyncronIndexer\\IndexerExmp.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:01:05.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NullableThreadingSyncronIndexer",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day9\\NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer.csproj",
+              "RelativeDocumentMoniker": "NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer.csproj",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day9\\NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer.csproj",
+              "RelativeToolTip": "NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-30T05:42:10.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NullableExmp.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day9\\NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer\\NullableExmp.cs",
+              "RelativeDocumentMoniker": "NullableThreadingSyncronIndexer\\NullableExmp.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day9\\NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer\\NullableExmp.cs",
+              "RelativeToolTip": "NullableThreadingSyncronIndexer\\NullableExmp.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:20:18.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day9\\NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer\\Employ.cs",
+              "RelativeDocumentMoniker": "NullableThreadingSyncronIndexer\\Employ.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day9\\NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer\\Employ.cs",
+              "RelativeToolTip": "NullableThreadingSyncronIndexer\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:14:26.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day9\\NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer\\Program.cs",
+              "RelativeDocumentMoniker": "NullableThreadingSyncronIndexer\\Program.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day9\\NullableThreadingSyncronIndexer\\NullableThreadingSyncronIndexer\\Program.cs",
+              "RelativeToolTip": "NullableThreadingSyncronIndexer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:13:43.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

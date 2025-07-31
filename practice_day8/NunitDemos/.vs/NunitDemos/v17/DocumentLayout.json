@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day8\\NunitDemos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7DE1EF-185B-4507-9C9B-DDA27FA07D03}|..\\MockExample\\MockExample.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day8\\mockexample\\calculationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7DE1EF-185B-4507-9C9B-DDA27FA07D03}|..\\MockExample\\MockExample.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day8\\mockexample\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7DE1EF-185B-4507-9C9B-DDA27FA07D03}|..\\MockExample\\MockExample.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day8\\mockexample\\detailstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7DE1EF-185B-4507-9C9B-DDA27FA07D03}|..\\MockExample\\MockExample.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day8\\mockexample\\details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7DE1EF-185B-4507-9C9B-DDA27FA07D03}|..\\MockExample\\MockExample.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day8\\mockexample\\mockexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C715DBF6-3A60-4088-9B96-8D7295277CD1}|..\\NunitDemo.Tests\\NunitDemo.Tests.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day8\\nunitdemo.tests\\employtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7DE1EF-185B-4507-9C9B-DDA27FA07D03}|..\\MockExample\\MockExample.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day8\\mockexample\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7DE1EF-185B-4507-9C9B-DDA27FA07D03}|..\\MockExample\\MockExample.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day8\\mockexample\\idetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F515CCD-57C6-4B8D-B02F-70E1B9A2471E}|NunitDemos\\NunitDemos.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day8\\nunitdemos\\nunitdemos\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F515CCD-57C6-4B8D-B02F-70E1B9A2471E}|NunitDemos\\NunitDemos.csproj|solutionrelative:nunitdemos\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F515CCD-57C6-4B8D-B02F-70E1B9A2471E}|NunitDemos\\NunitDemos.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day8\\nunitdemos\\nunitdemos\\employdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F515CCD-57C6-4B8D-B02F-70E1B9A2471E}|NunitDemos\\NunitDemos.csproj|solutionrelative:nunitdemos\\employdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F515CCD-57C6-4B8D-B02F-70E1B9A2471E}|NunitDemos\\NunitDemos.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day8\\nunitdemos\\nunitdemos\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F515CCD-57C6-4B8D-B02F-70E1B9A2471E}|NunitDemos\\NunitDemos.csproj|solutionrelative:nunitdemos\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C715DBF6-3A60-4088-9B96-8D7295277CD1}|..\\NunitDemo.Tests\\NunitDemo.Tests.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day8\\nunitdemo.tests\\demotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C715DBF6-3A60-4088-9B96-8D7295277CD1}|..\\NunitDemo.Tests\\NunitDemo.Tests.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day8\\nunitdemo.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F515CCD-57C6-4B8D-B02F-70E1B9A2471E}|NunitDemos\\NunitDemos.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day8\\nunitdemos\\nunitdemos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F515CCD-57C6-4B8D-B02F-70E1B9A2471E}|NunitDemos\\NunitDemos.csproj|solutionrelative:nunitdemos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculationTest.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day8\\MockExample\\CalculationTest.cs",
+              "RelativeDocumentMoniker": "..\\MockExample\\CalculationTest.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day8\\MockExample\\CalculationTest.cs",
+              "RelativeToolTip": "..\\MockExample\\CalculationTest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:01:24.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day8\\MockExample\\Calculation.cs",
+              "RelativeDocumentMoniker": "..\\MockExample\\Calculation.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day8\\MockExample\\Calculation.cs",
+              "RelativeToolTip": "..\\MockExample\\Calculation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:59:01.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetailsTest.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day8\\MockExample\\DetailsTest.cs",
+              "RelativeDocumentMoniker": "..\\MockExample\\DetailsTest.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day8\\MockExample\\DetailsTest.cs",
+              "RelativeToolTip": "..\\MockExample\\DetailsTest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:28:15.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MockExample",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day8\\MockExample\\MockExample.csproj",
+              "RelativeDocumentMoniker": "..\\MockExample\\MockExample.csproj",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day8\\MockExample\\MockExample.csproj",
+              "RelativeToolTip": "..\\MockExample\\MockExample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-29T12:23:33.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day8\\MockExample\\Details.cs",
+              "RelativeDocumentMoniker": "..\\MockExample\\Details.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day8\\MockExample\\Details.cs",
+              "RelativeToolTip": "..\\MockExample\\Details.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:23:13.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDetails.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day8\\MockExample\\IDetails.cs",
+              "RelativeDocumentMoniker": "..\\MockExample\\IDetails.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day8\\MockExample\\IDetails.cs",
+              "RelativeToolTip": "..\\MockExample\\IDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:20:43.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day8\\MockExample\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\MockExample\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day8\\MockExample\\UnitTest1.cs",
+              "RelativeToolTip": "..\\MockExample\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:16:45.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployTest.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day8\\NunitDemo.Tests\\EmployTest.cs",
+              "RelativeDocumentMoniker": "..\\NunitDemo.Tests\\EmployTest.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day8\\NunitDemo.Tests\\EmployTest.cs",
+              "RelativeToolTip": "..\\NunitDemo.Tests\\EmployTest.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:54:52.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployDao.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day8\\NunitDemos\\NunitDemos\\EmployDao.cs",
+              "RelativeDocumentMoniker": "NunitDemos\\EmployDao.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day8\\NunitDemos\\NunitDemos\\EmployDao.cs",
+              "RelativeToolTip": "NunitDemos\\EmployDao.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:43:56.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day8\\NunitDemos\\NunitDemos\\Employ.cs",
+              "RelativeDocumentMoniker": "NunitDemos\\Employ.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day8\\NunitDemos\\NunitDemos\\Employ.cs",
+              "RelativeToolTip": "NunitDemos\\Employ.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:26:45.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DemoTest.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day8\\NunitDemo.Tests\\DemoTest.cs",
+              "RelativeDocumentMoniker": "..\\NunitDemo.Tests\\DemoTest.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day8\\NunitDemo.Tests\\DemoTest.cs",
+              "RelativeToolTip": "..\\NunitDemo.Tests\\DemoTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T08:12:46.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day8\\NunitDemo.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\NunitDemo.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day8\\NunitDemo.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\NunitDemo.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T08:11:20.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day8\\NunitDemos\\NunitDemos\\Demo.cs",
+              "RelativeDocumentMoniker": "NunitDemos\\Demo.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day8\\NunitDemos\\NunitDemos\\Demo.cs",
+              "RelativeToolTip": "NunitDemos\\Demo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T08:08:01.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day8\\NunitDemos\\NunitDemos\\Class1.cs",
+              "RelativeDocumentMoniker": "NunitDemos\\Class1.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day8\\NunitDemos\\NunitDemos\\Class1.cs",
+              "RelativeToolTip": "NunitDemos\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T08:07:00.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

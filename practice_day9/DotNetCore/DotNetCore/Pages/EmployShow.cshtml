@@ -1,0 +1,17 @@
+﻿@page
+@model DotNetCore.Pages.EmployShowModel
+<table border="3">
+    <tr>
+        <th>EmpId</th>
+        <th>Name</th>
+        <th>Salary</th>
+    </tr>
+    @foreach (var emp in Model.Employs)
+    {
+        <tr>
+            <td>@emp.EmpId</td>
+            <td>@emp.Name</td>
+            <td>@emp.Salary</td>
+        </tr>
+    }
+</table>
