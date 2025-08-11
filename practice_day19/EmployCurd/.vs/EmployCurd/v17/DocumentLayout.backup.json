@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day19\\EmployCurd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1DCAAB-F3FE-4949-921C-E43825923C40}|EmployCurd\\EmployCurd.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day19\\employcurd\\employcurd\\controllers\\employscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1DCAAB-F3FE-4949-921C-E43825923C40}|EmployCurd\\EmployCurd.csproj|solutionrelative:employcurd\\controllers\\employscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1DCAAB-F3FE-4949-921C-E43825923C40}|EmployCurd\\EmployCurd.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day19\\employcurd\\employcurd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A1DCAAB-F3FE-4949-921C-E43825923C40}|EmployCurd\\EmployCurd.csproj|solutionrelative:employcurd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1DCAAB-F3FE-4949-921C-E43825923C40}|EmployCurd\\EmployCurd.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day19\\employcurd\\employcurd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1DCAAB-F3FE-4949-921C-E43825923C40}|EmployCurd\\EmployCurd.csproj|solutionrelative:employcurd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1DCAAB-F3FE-4949-921C-E43825923C40}|EmployCurd\\EmployCurd.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day19\\employcurd\\employcurd\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1DCAAB-F3FE-4949-921C-E43825923C40}|EmployCurd\\EmployCurd.csproj|solutionrelative:employcurd\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1DCAAB-F3FE-4949-921C-E43825923C40}|EmployCurd\\EmployCurd.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day19\\employcurd\\employcurd\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1DCAAB-F3FE-4949-921C-E43825923C40}|EmployCurd\\EmployCurd.csproj|solutionrelative:employcurd\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmploysController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day19\\EmployCurd\\EmployCurd\\Controllers\\EmploysController.cs",
+              "RelativeDocumentMoniker": "EmployCurd\\Controllers\\EmploysController.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day19\\EmployCurd\\EmployCurd\\Controllers\\EmploysController.cs",
+              "RelativeToolTip": "EmployCurd\\Controllers\\EmploysController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T18:01:21.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day19\\EmployCurd\\EmployCurd\\Program.cs",
+              "RelativeDocumentMoniker": "EmployCurd\\Program.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day19\\EmployCurd\\EmployCurd\\Program.cs",
+              "RelativeToolTip": "EmployCurd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T17:08:49.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day19\\EmployCurd\\EmployCurd\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployCurd\\appsettings.json",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day19\\EmployCurd\\EmployCurd\\appsettings.json",
+              "RelativeToolTip": "EmployCurd\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-11T17:02:02.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EFCoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day19\\EmployCurd\\EmployCurd\\Models\\EFCoreDbContext.cs",
+              "RelativeDocumentMoniker": "EmployCurd\\Models\\EFCoreDbContext.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day19\\EmployCurd\\EmployCurd\\Models\\EFCoreDbContext.cs",
+              "RelativeToolTip": "EmployCurd\\Models\\EFCoreDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:52:58.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day19\\EmployCurd\\EmployCurd\\Models\\Employ.cs",
+              "RelativeDocumentMoniker": "EmployCurd\\Models\\Employ.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day19\\EmployCurd\\EmployCurd\\Models\\Employ.cs",
+              "RelativeToolTip": "EmployCurd\\Models\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:46:12.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
