@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day21\\BankPeojectCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0B961C-DEF8-4551-9968-08BB7EE5B8F1}|BankPeojectCore\\BankPeojectCore.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day21\\bankpeojectcore\\bankpeojectcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0B961C-DEF8-4551-9968-08BB7EE5B8F1}|BankPeojectCore\\BankPeojectCore.csproj|solutionrelative:bankpeojectcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0B961C-DEF8-4551-9968-08BB7EE5B8F1}|BankPeojectCore\\BankPeojectCore.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day21\\bankpeojectcore\\bankpeojectcore\\controllers\\loginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0B961C-DEF8-4551-9968-08BB7EE5B8F1}|BankPeojectCore\\BankPeojectCore.csproj|solutionrelative:bankpeojectcore\\controllers\\loginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0B961C-DEF8-4551-9968-08BB7EE5B8F1}|BankPeojectCore\\BankPeojectCore.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day21\\bankpeojectcore\\bankpeojectcore\\models\\bankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0B961C-DEF8-4551-9968-08BB7EE5B8F1}|BankPeojectCore\\BankPeojectCore.csproj|solutionrelative:bankpeojectcore\\models\\bankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0B961C-DEF8-4551-9968-08BB7EE5B8F1}|BankPeojectCore\\BankPeojectCore.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day21\\bankpeojectcore\\bankpeojectcore\\middleware\\sendmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0B961C-DEF8-4551-9968-08BB7EE5B8F1}|BankPeojectCore\\BankPeojectCore.csproj|solutionrelative:bankpeojectcore\\middleware\\sendmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0B961C-DEF8-4551-9968-08BB7EE5B8F1}|BankPeojectCore\\BankPeojectCore.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day21\\bankpeojectcore\\bankpeojectcore\\middleware\\encrytionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0B961C-DEF8-4551-9968-08BB7EE5B8F1}|BankPeojectCore\\BankPeojectCore.csproj|solutionrelative:bankpeojectcore\\middleware\\encrytionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0B961C-DEF8-4551-9968-08BB7EE5B8F1}|BankPeojectCore\\BankPeojectCore.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day21\\bankpeojectcore\\bankpeojectcore\\middleware\\decryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0B961C-DEF8-4551-9968-08BB7EE5B8F1}|BankPeojectCore\\BankPeojectCore.csproj|solutionrelative:bankpeojectcore\\middleware\\decryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0B961C-DEF8-4551-9968-08BB7EE5B8F1}|BankPeojectCore\\BankPeojectCore.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day21\\bankpeojectcore\\bankpeojectcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA0B961C-DEF8-4551-9968-08BB7EE5B8F1}|BankPeojectCore\\BankPeojectCore.csproj|solutionrelative:bankpeojectcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0B961C-DEF8-4551-9968-08BB7EE5B8F1}|BankPeojectCore\\BankPeojectCore.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day21\\bankpeojectcore\\bankpeojectcore\\bankpeojectcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA0B961C-DEF8-4551-9968-08BB7EE5B8F1}|BankPeojectCore\\BankPeojectCore.csproj|solutionrelative:bankpeojectcore\\bankpeojectcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0B961C-DEF8-4551-9968-08BB7EE5B8F1}|BankPeojectCore\\BankPeojectCore.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day21\\bankpeojectcore\\bankpeojectcore\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0B961C-DEF8-4551-9968-08BB7EE5B8F1}|BankPeojectCore\\BankPeojectCore.csproj|solutionrelative:bankpeojectcore\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0B961C-DEF8-4551-9968-08BB7EE5B8F1}|BankPeojectCore\\BankPeojectCore.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day21\\bankpeojectcore\\bankpeojectcore\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0B961C-DEF8-4551-9968-08BB7EE5B8F1}|BankPeojectCore\\BankPeojectCore.csproj|solutionrelative:bankpeojectcore\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0B961C-DEF8-4551-9968-08BB7EE5B8F1}|BankPeojectCore\\BankPeojectCore.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day21\\bankpeojectcore\\bankpeojectcore\\controllers\\bankcustomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0B961C-DEF8-4551-9968-08BB7EE5B8F1}|BankPeojectCore\\BankPeojectCore.csproj|solutionrelative:bankpeojectcore\\controllers\\bankcustomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0B961C-DEF8-4551-9968-08BB7EE5B8F1}|BankPeojectCore\\BankPeojectCore.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day21\\bankpeojectcore\\bankpeojectcore\\models\\trans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0B961C-DEF8-4551-9968-08BB7EE5B8F1}|BankPeojectCore\\BankPeojectCore.csproj|solutionrelative:bankpeojectcore\\models\\trans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0B961C-DEF8-4551-9968-08BB7EE5B8F1}|BankPeojectCore\\BankPeojectCore.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day21\\bankpeojectcore\\bankpeojectcore\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0B961C-DEF8-4551-9968-08BB7EE5B8F1}|BankPeojectCore\\BankPeojectCore.csproj|solutionrelative:bankpeojectcore\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginsController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day21\\BankPeojectCore\\BankPeojectCore\\Controllers\\LoginsController.cs",
+              "RelativeDocumentMoniker": "BankPeojectCore\\Controllers\\LoginsController.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day21\\BankPeojectCore\\BankPeojectCore\\Controllers\\LoginsController.cs",
+              "RelativeToolTip": "BankPeojectCore\\Controllers\\LoginsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T16:39:59.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SendMail.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day21\\BankPeojectCore\\BankPeojectCore\\Middleware\\SendMail.cs",
+              "RelativeDocumentMoniker": "BankPeojectCore\\Middleware\\SendMail.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day21\\BankPeojectCore\\BankPeojectCore\\Middleware\\SendMail.cs",
+              "RelativeToolTip": "BankPeojectCore\\Middleware\\SendMail.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T16:34:55.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EncrytionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day21\\BankPeojectCore\\BankPeojectCore\\Middleware\\EncrytionHelper.cs",
+              "RelativeDocumentMoniker": "BankPeojectCore\\Middleware\\EncrytionHelper.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day21\\BankPeojectCore\\BankPeojectCore\\Middleware\\EncrytionHelper.cs",
+              "RelativeToolTip": "BankPeojectCore\\Middleware\\EncrytionHelper.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T16:29:24.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DecryptionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day21\\BankPeojectCore\\BankPeojectCore\\Middleware\\DecryptionHelper.cs",
+              "RelativeDocumentMoniker": "BankPeojectCore\\Middleware\\DecryptionHelper.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day21\\BankPeojectCore\\BankPeojectCore\\Middleware\\DecryptionHelper.cs",
+              "RelativeToolTip": "BankPeojectCore\\Middleware\\DecryptionHelper.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T16:22:25.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BankPeojectCore",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day21\\BankPeojectCore\\BankPeojectCore\\BankPeojectCore.csproj",
+              "RelativeDocumentMoniker": "BankPeojectCore\\BankPeojectCore.csproj",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day21\\BankPeojectCore\\BankPeojectCore\\BankPeojectCore.csproj",
+              "RelativeToolTip": "BankPeojectCore\\BankPeojectCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-13T16:18:38.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day21\\BankPeojectCore\\BankPeojectCore\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "BankPeojectCore\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day21\\BankPeojectCore\\BankPeojectCore\\Models\\Login.cs",
+              "RelativeToolTip": "BankPeojectCore\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T16:16:33.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day21\\BankPeojectCore\\BankPeojectCore\\Program.cs",
+              "RelativeDocumentMoniker": "BankPeojectCore\\Program.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day21\\BankPeojectCore\\BankPeojectCore\\Program.cs",
+              "RelativeToolTip": "BankPeojectCore\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:48:51.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day21\\BankPeojectCore\\BankPeojectCore\\appsettings.json",
+              "RelativeDocumentMoniker": "BankPeojectCore\\appsettings.json",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day21\\BankPeojectCore\\BankPeojectCore\\appsettings.json",
+              "RelativeToolTip": "BankPeojectCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-13T10:46:53.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BankCustomController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day21\\BankPeojectCore\\BankPeojectCore\\Controllers\\BankCustomController.cs",
+              "RelativeDocumentMoniker": "BankPeojectCore\\Controllers\\BankCustomController.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day21\\BankPeojectCore\\BankPeojectCore\\Controllers\\BankCustomController.cs",
+              "RelativeToolTip": "BankPeojectCore\\Controllers\\BankCustomController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwFUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:44:06.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day21\\BankPeojectCore\\BankPeojectCore\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "BankPeojectCore\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day21\\BankPeojectCore\\BankPeojectCore\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "BankPeojectCore\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:37:03.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Trans.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day21\\BankPeojectCore\\BankPeojectCore\\Models\\Trans.cs",
+              "RelativeDocumentMoniker": "BankPeojectCore\\Models\\Trans.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day21\\BankPeojectCore\\BankPeojectCore\\Models\\Trans.cs",
+              "RelativeToolTip": "BankPeojectCore\\Models\\Trans.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:33:52.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day21\\BankPeojectCore\\BankPeojectCore\\Models\\BankDbContext.cs",
+              "RelativeDocumentMoniker": "BankPeojectCore\\Models\\BankDbContext.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day21\\BankPeojectCore\\BankPeojectCore\\Models\\BankDbContext.cs",
+              "RelativeToolTip": "BankPeojectCore\\Models\\BankDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:31:56.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day21\\BankPeojectCore\\BankPeojectCore\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "BankPeojectCore\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day21\\BankPeojectCore\\BankPeojectCore\\Models\\Account.cs",
+              "RelativeToolTip": "BankPeojectCore\\Models\\Account.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:28:51.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

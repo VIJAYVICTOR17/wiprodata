@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day22\\LmsProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADE5B1A-AB16-46E9-9656-77B416130CB4}|LmsProject\\LmsProject.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day22\\lmsproject\\lmsproject\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADE5B1A-AB16-46E9-9656-77B416130CB4}|LmsProject\\LmsProject.csproj|solutionrelative:lmsproject\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADE5B1A-AB16-46E9-9656-77B416130CB4}|LmsProject\\LmsProject.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day22\\lmsproject\\lmsproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2ADE5B1A-AB16-46E9-9656-77B416130CB4}|LmsProject\\LmsProject.csproj|solutionrelative:lmsproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADE5B1A-AB16-46E9-9656-77B416130CB4}|LmsProject\\LmsProject.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day22\\lmsproject\\lmsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADE5B1A-AB16-46E9-9656-77B416130CB4}|LmsProject\\LmsProject.csproj|solutionrelative:lmsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADE5B1A-AB16-46E9-9656-77B416130CB4}|LmsProject\\LmsProject.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day22\\lmsproject\\lmsproject\\models\\lmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADE5B1A-AB16-46E9-9656-77B416130CB4}|LmsProject\\LmsProject.csproj|solutionrelative:lmsproject\\models\\lmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADE5B1A-AB16-46E9-9656-77B416130CB4}|LmsProject\\LmsProject.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day22\\lmsproject\\lmsproject\\controllers\\leavehistoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADE5B1A-AB16-46E9-9656-77B416130CB4}|LmsProject\\LmsProject.csproj|solutionrelative:lmsproject\\controllers\\leavehistoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADE5B1A-AB16-46E9-9656-77B416130CB4}|LmsProject\\LmsProject.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day22\\lmsproject\\lmsproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADE5B1A-AB16-46E9-9656-77B416130CB4}|LmsProject\\LmsProject.csproj|solutionrelative:lmsproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADE5B1A-AB16-46E9-9656-77B416130CB4}|LmsProject\\LmsProject.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day22\\lmsproject\\lmsproject\\models\\leavehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADE5B1A-AB16-46E9-9656-77B416130CB4}|LmsProject\\LmsProject.csproj|solutionrelative:lmsproject\\models\\leavehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LeaveHistory.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day22\\LmsProject\\LmsProject\\Models\\LeaveHistory.cs",
+              "RelativeDocumentMoniker": "LmsProject\\Models\\LeaveHistory.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day22\\LmsProject\\LmsProject\\Models\\LeaveHistory.cs",
+              "RelativeToolTip": "LmsProject\\Models\\LeaveHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:31:30.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LeaveHistoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day22\\LmsProject\\LmsProject\\Controllers\\LeaveHistoriesController.cs",
+              "RelativeDocumentMoniker": "LmsProject\\Controllers\\LeaveHistoriesController.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day22\\LmsProject\\LmsProject\\Controllers\\LeaveHistoriesController.cs",
+              "RelativeToolTip": "LmsProject\\Controllers\\LeaveHistoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:30:25.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day22\\LmsProject\\LmsProject\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "LmsProject\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day22\\LmsProject\\LmsProject\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "LmsProject\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAswAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:27:09.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day22\\LmsProject\\LmsProject\\Program.cs",
+              "RelativeDocumentMoniker": "LmsProject\\Program.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day22\\LmsProject\\LmsProject\\Program.cs",
+              "RelativeToolTip": "LmsProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:09:37.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day22\\LmsProject\\LmsProject\\appsettings.json",
+              "RelativeDocumentMoniker": "LmsProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day22\\LmsProject\\LmsProject\\appsettings.json",
+              "RelativeToolTip": "LmsProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T07:05:41.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LmsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day22\\LmsProject\\LmsProject\\Models\\LmsDbContext.cs",
+              "RelativeDocumentMoniker": "LmsProject\\Models\\LmsDbContext.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day22\\LmsProject\\LmsProject\\Models\\LmsDbContext.cs",
+              "RelativeToolTip": "LmsProject\\Models\\LmsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T06:57:21.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day22\\LmsProject\\LmsProject\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "LmsProject\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day22\\LmsProject\\LmsProject\\Models\\Employee.cs",
+              "RelativeToolTip": "LmsProject\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T06:54:19.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
