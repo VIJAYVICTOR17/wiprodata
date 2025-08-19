@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day23\\CmsCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA1CDD-6D10-4C28-9BE4-E93786AEAE39}|CmsCore\\CmsCore.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day23\\cmscore\\cmscore\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DA1CDD-6D10-4C28-9BE4-E93786AEAE39}|CmsCore\\CmsCore.csproj|solutionrelative:cmscore\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA1CDD-6D10-4C28-9BE4-E93786AEAE39}|CmsCore\\CmsCore.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day23\\cmscore\\cmscore\\models\\cmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DA1CDD-6D10-4C28-9BE4-E93786AEAE39}|CmsCore\\CmsCore.csproj|solutionrelative:cmscore\\models\\cmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA1CDD-6D10-4C28-9BE4-E93786AEAE39}|CmsCore\\CmsCore.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day23\\cmscore\\cmscore\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DA1CDD-6D10-4C28-9BE4-E93786AEAE39}|CmsCore\\CmsCore.csproj|solutionrelative:cmscore\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA1CDD-6D10-4C28-9BE4-E93786AEAE39}|CmsCore\\CmsCore.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day23\\cmscore\\cmscore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DA1CDD-6D10-4C28-9BE4-E93786AEAE39}|CmsCore\\CmsCore.csproj|solutionrelative:cmscore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA1CDD-6D10-4C28-9BE4-E93786AEAE39}|CmsCore\\CmsCore.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day23\\cmscore\\cmscore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87DA1CDD-6D10-4C28-9BE4-E93786AEAE39}|CmsCore\\CmsCore.csproj|solutionrelative:cmscore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day23\\CmsCore\\CmsCore\\appsettings.json",
+              "RelativeDocumentMoniker": "CmsCore\\appsettings.json",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day23\\CmsCore\\CmsCore\\appsettings.json",
+              "RelativeToolTip": "CmsCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-16T10:46:39.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CmsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day23\\CmsCore\\CmsCore\\Models\\CmsDbContext.cs",
+              "RelativeDocumentMoniker": "CmsCore\\Models\\CmsDbContext.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day23\\CmsCore\\CmsCore\\Models\\CmsDbContext.cs",
+              "RelativeToolTip": "CmsCore\\Models\\CmsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:42:52.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day23\\CmsCore\\CmsCore\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CmsCore\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day23\\CmsCore\\CmsCore\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CmsCore\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:41:42.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day23\\CmsCore\\CmsCore\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CmsCore\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day23\\CmsCore\\CmsCore\\Models\\Customer.cs",
+              "RelativeToolTip": "CmsCore\\Models\\Customer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:40:43.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day23\\CmsCore\\CmsCore\\Program.cs",
+              "RelativeDocumentMoniker": "CmsCore\\Program.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day23\\CmsCore\\CmsCore\\Program.cs",
+              "RelativeToolTip": "CmsCore\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:44:31.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

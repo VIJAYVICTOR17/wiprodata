@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day24\\rajorexamples\\rajorexamples\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day24\\rajorexamples\\rajorexamples\\pages\\employsnew\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\employsnew\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day24\\rajorexamples\\rajorexamples\\pages\\employsnew\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\employsnew\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day24\\rajorexamples\\rajorexamples\\pages\\employsnew\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\employsnew\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day24\\rajorexamples\\rajorexamples\\pages\\employsnew\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\employsnew\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day24\\rajorexamples\\rajorexamples\\pages\\employsnew\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\employsnew\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day24\\rajorexamples\\rajorexamples\\pages\\employsnew\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\employsnew\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day24\\rajorexamples\\rajorexamples\\pages\\employsnew\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\employsnew\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day24\\rajorexamples\\rajorexamples\\pages\\employsnew\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\employsnew\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day24\\rajorexamples\\rajorexamples\\pages\\employsnew\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\employsnew\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day24\\rajorexamples\\rajorexamples\\pages\\employsnew\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\employsnew\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day24\\rajorexamples\\rajorexamples\\pages\\employs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\employs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day24\\rajorexamples\\rajorexamples\\pages\\employs\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\employs\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day24\\rajorexamples\\rajorexamples\\pages\\employs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\employs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day24\\rajorexamples\\rajorexamples\\pages\\employs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\employs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day24\\rajorexamples\\rajorexamples\\pages\\employs\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\employs\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day24\\rajorexamples\\rajorexamples\\pages\\employs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\employs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day24\\rajorexamples\\rajorexamples\\pages\\employs\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\employs\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day24\\rajorexamples\\rajorexamples\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day24\\rajorexamples\\rajorexamples\\pages\\employs\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\employs\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day24\\rajorexamples\\rajorexamples\\pages\\employs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\employs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day24\\rajorexamples\\rajorexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day24\\rajorexamples\\rajorexamples\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day24\\rajorexamples\\rajorexamples\\pages\\employs\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\employs\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day24\\rajorexamples\\rajorexamples\\rajorexamples.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{055664E0-B9FB-4ABF-803A-71B0DD53A9F2}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\rajorexamples.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\EmploysNew\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\EmploysNew\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\EmploysNew\\Index.cshtml.cs",
+              "RelativeToolTip": "RajorExamples\\Pages\\EmploysNew\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:01:32.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\EmploysNew\\Index.cshtml",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\EmploysNew\\Index.cshtml",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\EmploysNew\\Index.cshtml",
+              "RelativeToolTip": "RajorExamples\\Pages\\EmploysNew\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T11:01:32.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\EmploysNew\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\EmploysNew\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\EmploysNew\\Delete.cshtml.cs",
+              "RelativeToolTip": "RajorExamples\\Pages\\EmploysNew\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:01:32.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\EmploysNew\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\EmploysNew\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\EmploysNew\\Delete.cshtml",
+              "RelativeToolTip": "RajorExamples\\Pages\\EmploysNew\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T11:01:32.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\EmploysNew\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\EmploysNew\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\EmploysNew\\Details.cshtml.cs",
+              "RelativeToolTip": "RajorExamples\\Pages\\EmploysNew\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:01:32.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\EmploysNew\\Details.cshtml",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\EmploysNew\\Details.cshtml",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\EmploysNew\\Details.cshtml",
+              "RelativeToolTip": "RajorExamples\\Pages\\EmploysNew\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T11:01:31.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\EmploysNew\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\EmploysNew\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\EmploysNew\\Edit.cshtml.cs",
+              "RelativeToolTip": "RajorExamples\\Pages\\EmploysNew\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:01:31.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\EmploysNew\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\EmploysNew\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\EmploysNew\\Edit.cshtml",
+              "RelativeToolTip": "RajorExamples\\Pages\\EmploysNew\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T11:01:31.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\EmploysNew\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\EmploysNew\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\EmploysNew\\Create.cshtml.cs",
+              "RelativeToolTip": "RajorExamples\\Pages\\EmploysNew\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:01:31.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\EmploysNew\\Create.cshtml",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\EmploysNew\\Create.cshtml",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\EmploysNew\\Create.cshtml",
+              "RelativeToolTip": "RajorExamples\\Pages\\EmploysNew\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T11:01:30.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\Employs\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\Employs\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\Employs\\Delete.cshtml.cs",
+              "RelativeToolTip": "RajorExamples\\Pages\\Employs\\Delete.cshtml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T10:53:29.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\Employs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\Employs\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\Employs\\Delete.cshtml",
+              "RelativeToolTip": "RajorExamples\\Pages\\Employs\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T10:52:53.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\Employs\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\Employs\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\Employs\\Edit.cshtml.cs",
+              "RelativeToolTip": "RajorExamples\\Pages\\Employs\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T10:14:41.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\Employs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\Employs\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\Employs\\Edit.cshtml",
+              "RelativeToolTip": "RajorExamples\\Pages\\Employs\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T10:14:10.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\Employs\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\Employs\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\Employs\\Details.cshtml.cs",
+              "RelativeToolTip": "RajorExamples\\Pages\\Employs\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T10:05:50.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\Employs\\Details.cshtml",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\Employs\\Details.cshtml",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\Employs\\Details.cshtml",
+              "RelativeToolTip": "RajorExamples\\Pages\\Employs\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T10:04:53.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\Employs\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\Employs\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\Employs\\Create.cshtml.cs",
+              "RelativeToolTip": "RajorExamples\\Pages\\Employs\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:57:02.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\Employs\\Create.cshtml",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\Employs\\Create.cshtml",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\Employs\\Create.cshtml",
+              "RelativeToolTip": "RajorExamples\\Pages\\Employs\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T09:56:53.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\Employs\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\Employs\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\Employs\\Index.cshtml.cs",
+              "RelativeToolTip": "RajorExamples\\Pages\\Employs\\Index.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:42:14.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\Employs\\Index.cshtml",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\Employs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Pages\\Employs\\Index.cshtml",
+              "RelativeToolTip": "RajorExamples\\Pages\\Employs\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T07:42:08.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Program.cs",
+              "RelativeDocumentMoniker": "RajorExamples\\Program.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Program.cs",
+              "RelativeToolTip": "RajorExamples\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:37:41.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\appsettings.json",
+              "RelativeDocumentMoniker": "RajorExamples\\appsettings.json",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\appsettings.json",
+              "RelativeToolTip": "RajorExamples\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T07:33:02.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EFcoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Models\\EFcoreDbContext.cs",
+              "RelativeDocumentMoniker": "RajorExamples\\Models\\EFcoreDbContext.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Models\\EFcoreDbContext.cs",
+              "RelativeToolTip": "RajorExamples\\Models\\EFcoreDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:29:04.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Models\\Employ.cs",
+              "RelativeDocumentMoniker": "RajorExamples\\Models\\Employ.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\Models\\Employ.cs*",
+              "RelativeToolTip": "RajorExamples\\Models\\Employ.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:03:45.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RajorExamples",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\RajorExamples.csproj",
+              "RelativeDocumentMoniker": "RajorExamples\\RajorExamples.csproj",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day24\\RajorExamples\\RajorExamples\\RajorExamples.csproj",
+              "RelativeToolTip": "RajorExamples\\RajorExamples.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-18T07:02:38.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
