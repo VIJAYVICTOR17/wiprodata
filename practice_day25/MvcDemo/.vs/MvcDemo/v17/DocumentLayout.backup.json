@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day25\\mvcdemo\\mvcdemo\\views\\employ\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|solutionrelative:mvcdemo\\views\\employ\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day25\\mvcdemo\\mvcdemo\\views\\employ\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|solutionrelative:mvcdemo\\views\\employ\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day25\\mvcdemo\\mvcdemo\\controllers\\employcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|solutionrelative:mvcdemo\\controllers\\employcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day25\\mvcdemo\\mvcdemo\\views\\employ\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|solutionrelative:mvcdemo\\views\\employ\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day25\\mvcdemo\\mvcdemo\\views\\employ\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|solutionrelative:mvcdemo\\views\\employ\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day25\\mvcdemo\\mvcdemo\\views\\employ\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|solutionrelative:mvcdemo\\views\\employ\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day25\\mvcdemo\\mvcdemo\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|solutionrelative:mvcdemo\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day25\\mvcdemo\\mvcdemo\\models\\employservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|solutionrelative:mvcdemo\\models\\employservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day25\\mvcdemo\\mvcdemo\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|solutionrelative:mvcdemo\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day25\\mvcdemo\\mvcdemo\\views\\test\\lunchtime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|solutionrelative:mvcdemo\\views\\test\\lunchtime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day25\\mvcdemo\\mvcdemo\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|solutionrelative:mvcdemo\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day25\\mvcdemo\\mvcdemo\\views\\test\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|solutionrelative:mvcdemo\\views\\test\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day25\\mvcdemo\\mvcdemo\\views\\details\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|solutionrelative:mvcdemo\\views\\details\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day25\\mvcdemo\\mvcdemo\\controllers\\detailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|solutionrelative:mvcdemo\\controllers\\detailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day25\\mvcdemo\\mvcdemo\\views\\details\\module2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|solutionrelative:mvcdemo\\views\\details\\module2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day25\\mvcdemo\\mvcdemo\\views\\details\\module3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|solutionrelative:mvcdemo\\views\\details\\module3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day25\\mvcdemo\\mvcdemo\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|solutionrelative:mvcdemo\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day25\\mvcdemo\\mvcdemo\\mvcdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{554637CF-184C-4FD9-9904-76504E51CAE4}|MvcDemo\\MvcDemo.csproj|solutionrelative:mvcdemo\\mvcdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Views\\Employ\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvcDemo\\Views\\Employ\\Create.cshtml",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Views\\Employ\\Create.cshtml*",
+              "RelativeToolTip": "MvcDemo\\Views\\Employ\\Create.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T17:33:43.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Views\\Employ\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MvcDemo\\Views\\Employ\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Views\\Employ\\Edit.cshtml*",
+              "RelativeToolTip": "MvcDemo\\Views\\Employ\\Edit.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T17:32:24.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Views\\Employ\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MvcDemo\\Views\\Employ\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Views\\Employ\\Delete.cshtml",
+              "RelativeToolTip": "MvcDemo\\Views\\Employ\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T17:29:10.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Views\\Employ\\Search.cshtml",
+              "RelativeDocumentMoniker": "MvcDemo\\Views\\Employ\\Search.cshtml",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Views\\Employ\\Search.cshtml",
+              "RelativeToolTip": "MvcDemo\\Views\\Employ\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T17:15:45.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LunchTime.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Views\\Test\\LunchTime.cshtml",
+              "RelativeDocumentMoniker": "MvcDemo\\Views\\Test\\LunchTime.cshtml",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Views\\Test\\LunchTime.cshtml",
+              "RelativeToolTip": "MvcDemo\\Views\\Test\\LunchTime.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T08:42:41.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Course.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Views\\Test\\Course.cshtml",
+              "RelativeDocumentMoniker": "MvcDemo\\Views\\Test\\Course.cshtml",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Views\\Test\\Course.cshtml",
+              "RelativeToolTip": "MvcDemo\\Views\\Test\\Course.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T08:41:57.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Views\\Test\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcDemo\\Views\\Test\\Index.cshtml",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Views\\Test\\Index.cshtml",
+              "RelativeToolTip": "MvcDemo\\Views\\Test\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T08:40:02.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "MvcDemo\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Controllers\\TestController.cs",
+              "RelativeToolTip": "MvcDemo\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T08:37:28.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Views\\Employ\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcDemo\\Views\\Employ\\Index.cshtml",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Views\\Employ\\Index.cshtml",
+              "RelativeToolTip": "MvcDemo\\Views\\Employ\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T06:36:33.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Controllers\\EmployController.cs",
+              "RelativeDocumentMoniker": "MvcDemo\\Controllers\\EmployController.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Controllers\\EmployController.cs",
+              "RelativeToolTip": "MvcDemo\\Controllers\\EmployController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAcwEUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T06:33:07.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Module3.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Views\\Details\\Module3.cshtml",
+              "RelativeDocumentMoniker": "MvcDemo\\Views\\Details\\Module3.cshtml",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Views\\Details\\Module3.cshtml",
+              "RelativeToolTip": "MvcDemo\\Views\\Details\\Module3.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T06:27:15.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Module2.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Views\\Details\\Module2.cshtml",
+              "RelativeDocumentMoniker": "MvcDemo\\Views\\Details\\Module2.cshtml",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Views\\Details\\Module2.cshtml",
+              "RelativeToolTip": "MvcDemo\\Views\\Details\\Module2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T06:26:48.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Views\\Details\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcDemo\\Views\\Details\\Index.cshtml",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Views\\Details\\Index.cshtml",
+              "RelativeToolTip": "MvcDemo\\Views\\Details\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T06:24:46.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MvcDemo.csproj",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\MvcDemo.csproj",
+              "RelativeDocumentMoniker": "MvcDemo\\MvcDemo.csproj",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\MvcDemo.csproj",
+              "RelativeToolTip": "MvcDemo\\MvcDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-19T06:12:56.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Controllers\\DetailsController.cs",
+              "RelativeDocumentMoniker": "MvcDemo\\Controllers\\DetailsController.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Controllers\\DetailsController.cs",
+              "RelativeToolTip": "MvcDemo\\Controllers\\DetailsController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T06:19:11.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "MvcDemo\\Controllers\\DemoController.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "MvcDemo\\Controllers\\DemoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T06:09:35.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployService.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Models\\EmployService.cs",
+              "RelativeDocumentMoniker": "MvcDemo\\Models\\EmployService.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Models\\EmployService.cs",
+              "RelativeToolTip": "MvcDemo\\Models\\EmployService.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T06:04:29.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Models\\Employ.cs",
+              "RelativeDocumentMoniker": "MvcDemo\\Models\\Employ.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day25\\MvcDemo\\MvcDemo\\Models\\Employ.cs",
+              "RelativeToolTip": "MvcDemo\\Models\\Employ.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T06:02:15.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
