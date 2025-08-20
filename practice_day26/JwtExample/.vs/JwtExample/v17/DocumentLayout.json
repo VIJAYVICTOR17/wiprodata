@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day26\\JwtExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3996FD-E809-44BC-82FB-5DD954665EBA}|JwtExample\\JwtExample.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day26\\jwtexample\\jwtexample\\controllers\\protectedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3996FD-E809-44BC-82FB-5DD954665EBA}|JwtExample\\JwtExample.csproj|solutionrelative:jwtexample\\controllers\\protectedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3996FD-E809-44BC-82FB-5DD954665EBA}|JwtExample\\JwtExample.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day26\\jwtexample\\jwtexample\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3996FD-E809-44BC-82FB-5DD954665EBA}|JwtExample\\JwtExample.csproj|solutionrelative:jwtexample\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3996FD-E809-44BC-82FB-5DD954665EBA}|JwtExample\\JwtExample.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day26\\jwtexample\\jwtexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3996FD-E809-44BC-82FB-5DD954665EBA}|JwtExample\\JwtExample.csproj|solutionrelative:jwtexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3996FD-E809-44BC-82FB-5DD954665EBA}|JwtExample\\JwtExample.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day26\\jwtexample\\jwtexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A3996FD-E809-44BC-82FB-5DD954665EBA}|JwtExample\\JwtExample.csproj|solutionrelative:jwtexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3996FD-E809-44BC-82FB-5DD954665EBA}|JwtExample\\JwtExample.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day26\\jwtexample\\jwtexample\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3996FD-E809-44BC-82FB-5DD954665EBA}|JwtExample\\JwtExample.csproj|solutionrelative:jwtexample\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3996FD-E809-44BC-82FB-5DD954665EBA}|JwtExample\\JwtExample.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day26\\jwtexample\\jwtexample\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3996FD-E809-44BC-82FB-5DD954665EBA}|JwtExample\\JwtExample.csproj|solutionrelative:jwtexample\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3996FD-E809-44BC-82FB-5DD954665EBA}|JwtExample\\JwtExample.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day26\\jwtexample\\jwtexample\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3996FD-E809-44BC-82FB-5DD954665EBA}|JwtExample\\JwtExample.csproj|solutionrelative:jwtexample\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3996FD-E809-44BC-82FB-5DD954665EBA}|JwtExample\\JwtExample.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day26\\jwtexample\\jwtexample\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3996FD-E809-44BC-82FB-5DD954665EBA}|JwtExample\\JwtExample.csproj|solutionrelative:jwtexample\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3996FD-E809-44BC-82FB-5DD954665EBA}|JwtExample\\JwtExample.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day26\\jwtexample\\jwtexample\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3996FD-E809-44BC-82FB-5DD954665EBA}|JwtExample\\JwtExample.csproj|solutionrelative:jwtexample\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3996FD-E809-44BC-82FB-5DD954665EBA}|JwtExample\\JwtExample.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day26\\jwtexample\\jwtexample\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3996FD-E809-44BC-82FB-5DD954665EBA}|JwtExample\\JwtExample.csproj|solutionrelative:jwtexample\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProtectedController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day26\\JwtExample\\JwtExample\\Controllers\\ProtectedController.cs",
+              "RelativeDocumentMoniker": "JwtExample\\Controllers\\ProtectedController.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day26\\JwtExample\\JwtExample\\Controllers\\ProtectedController.cs",
+              "RelativeToolTip": "JwtExample\\Controllers\\ProtectedController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:13:59.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day26\\JwtExample\\JwtExample\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JwtExample\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day26\\JwtExample\\JwtExample\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JwtExample\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:09:33.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day26\\JwtExample\\JwtExample\\Program.cs",
+              "RelativeDocumentMoniker": "JwtExample\\Program.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day26\\JwtExample\\JwtExample\\Program.cs",
+              "RelativeToolTip": "JwtExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:06:39.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day26\\JwtExample\\JwtExample\\appsettings.json",
+              "RelativeDocumentMoniker": "JwtExample\\appsettings.json",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day26\\JwtExample\\JwtExample\\appsettings.json",
+              "RelativeToolTip": "JwtExample\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-20T06:05:52.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day26\\JwtExample\\JwtExample\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "JwtExample\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day26\\JwtExample\\JwtExample\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "JwtExample\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:04:26.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day26\\JwtExample\\JwtExample\\Models\\AuthService.cs",
+              "RelativeDocumentMoniker": "JwtExample\\Models\\AuthService.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day26\\JwtExample\\JwtExample\\Models\\AuthService.cs",
+              "RelativeToolTip": "JwtExample\\Models\\AuthService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:01:37.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day26\\JwtExample\\JwtExample\\Models\\IAuthService.cs",
+              "RelativeDocumentMoniker": "JwtExample\\Models\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day26\\JwtExample\\JwtExample\\Models\\IAuthService.cs",
+              "RelativeToolTip": "JwtExample\\Models\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:00:45.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day26\\JwtExample\\JwtExample\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "JwtExample\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day26\\JwtExample\\JwtExample\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "JwtExample\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T05:59:36.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day26\\JwtExample\\JwtExample\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "JwtExample\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day26\\JwtExample\\JwtExample\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "JwtExample\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T05:58:21.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day26\\JwtExample\\JwtExample\\Models\\User.cs",
+              "RelativeDocumentMoniker": "JwtExample\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day26\\JwtExample\\JwtExample\\Models\\User.cs",
+              "RelativeToolTip": "JwtExample\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T05:56:34.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
