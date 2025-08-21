@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestBackup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20F66FC4-7384-41B6-9CE8-92E116934829}|RestBackup\\RestBackup.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day27\\restbackup\\restbackup\\services\\employservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F66FC4-7384-41B6-9CE8-92E116934829}|RestBackup\\RestBackup.csproj|solutionrelative:restbackup\\services\\employservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F66FC4-7384-41B6-9CE8-92E116934829}|RestBackup\\RestBackup.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day27\\restbackup\\restbackup\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F66FC4-7384-41B6-9CE8-92E116934829}|RestBackup\\RestBackup.csproj|solutionrelative:restbackup\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F66FC4-7384-41B6-9CE8-92E116934829}|RestBackup\\RestBackup.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day27\\restbackup\\restbackup\\controllers\\restemploycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F66FC4-7384-41B6-9CE8-92E116934829}|RestBackup\\RestBackup.csproj|solutionrelative:restbackup\\controllers\\restemploycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F66FC4-7384-41B6-9CE8-92E116934829}|RestBackup\\RestBackup.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day27\\restbackup\\restbackup\\services\\iemployservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F66FC4-7384-41B6-9CE8-92E116934829}|RestBackup\\RestBackup.csproj|solutionrelative:restbackup\\services\\iemployservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F66FC4-7384-41B6-9CE8-92E116934829}|RestBackup\\RestBackup.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day27\\restbackup\\restbackup\\restbackup.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20F66FC4-7384-41B6-9CE8-92E116934829}|RestBackup\\RestBackup.csproj|solutionrelative:restbackup\\restbackup.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF20A59D-C802-49B1-8C77-DE3F0BD55312}|..\\RestEmployCurd\\RestEmployCurd.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day27\\restemploycurd\\models\\employdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF20A59D-C802-49B1-8C77-DE3F0BD55312}|..\\RestEmployCurd\\RestEmployCurd.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day27\\restemploycurd\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF20A59D-C802-49B1-8C77-DE3F0BD55312}|..\\RestEmployCurd\\RestEmployCurd.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day27\\restemploycurd\\controllers\\employscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF20A59D-C802-49B1-8C77-DE3F0BD55312}|..\\RestEmployCurd\\RestEmployCurd.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day27\\restemploycurd\\controllers\\restemploycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF20A59D-C802-49B1-8C77-DE3F0BD55312}|..\\RestEmployCurd\\RestEmployCurd.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day27\\restemploycurd\\controllers\\employsnewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF20A59D-C802-49B1-8C77-DE3F0BD55312}|..\\RestEmployCurd\\RestEmployCurd.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day27\\restemploycurd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF20A59D-C802-49B1-8C77-DE3F0BD55312}|..\\RestEmployCurd\\RestEmployCurd.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day27\\restemploycurd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF20A59D-C802-49B1-8C77-DE3F0BD55312}|..\\RestEmployCurd\\RestEmployCurd.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day27\\restemploycurd\\services\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF20A59D-C802-49B1-8C77-DE3F0BD55312}|..\\RestEmployCurd\\RestEmployCurd.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day27\\restemploycurd\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F66FC4-7384-41B6-9CE8-92E116934829}|RestBackup\\RestBackup.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day27\\restbackup\\restbackup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F66FC4-7384-41B6-9CE8-92E116934829}|RestBackup\\RestBackup.csproj|solutionrelative:restbackup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestEmployCurd\\Program.cs",
+              "RelativeDocumentMoniker": "..\\RestEmployCurd\\Program.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestEmployCurd\\Program.cs",
+              "RelativeToolTip": "..\\RestEmployCurd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:33:14.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestEmployCurd\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\RestEmployCurd\\appsettings.json",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestEmployCurd\\appsettings.json",
+              "RelativeToolTip": "..\\RestEmployCurd\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-21T10:32:47.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RestEmployController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestEmployCurd\\Controllers\\RestEmployController.cs",
+              "RelativeDocumentMoniker": "..\\RestEmployCurd\\Controllers\\RestEmployController.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestEmployCurd\\Controllers\\RestEmployController.cs",
+              "RelativeToolTip": "..\\RestEmployCurd\\Controllers\\RestEmployController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:31:35.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmploysNewController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestEmployCurd\\Controllers\\EmploysNewController.cs",
+              "RelativeDocumentMoniker": "..\\RestEmployCurd\\Controllers\\EmploysNewController.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestEmployCurd\\Controllers\\EmploysNewController.cs",
+              "RelativeToolTip": "..\\RestEmployCurd\\Controllers\\EmploysNewController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:30:25.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmploysController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestEmployCurd\\Controllers\\EmploysController.cs",
+              "RelativeDocumentMoniker": "..\\RestEmployCurd\\Controllers\\EmploysController.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestEmployCurd\\Controllers\\EmploysController.cs",
+              "RelativeToolTip": "..\\RestEmployCurd\\Controllers\\EmploysController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:29:05.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestEmployCurd\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "..\\RestEmployCurd\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestEmployCurd\\Services\\ApiService.cs",
+              "RelativeToolTip": "..\\RestEmployCurd\\Services\\ApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:27:03.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IApiService.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestEmployCurd\\Services\\IApiService.cs",
+              "RelativeDocumentMoniker": "..\\RestEmployCurd\\Services\\IApiService.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestEmployCurd\\Services\\IApiService.cs",
+              "RelativeToolTip": "..\\RestEmployCurd\\Services\\IApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:25:52.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestEmployCurd\\Models\\EmployDbContext.cs",
+              "RelativeDocumentMoniker": "..\\RestEmployCurd\\Models\\EmployDbContext.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestEmployCurd\\Models\\EmployDbContext.cs",
+              "RelativeToolTip": "..\\RestEmployCurd\\Models\\EmployDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:21:04.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestEmployCurd\\Models\\Employ.cs",
+              "RelativeDocumentMoniker": "..\\RestEmployCurd\\Models\\Employ.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestEmployCurd\\Models\\Employ.cs",
+              "RelativeToolTip": "..\\RestEmployCurd\\Models\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:20:17.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestBackup\\RestBackup\\Program.cs",
+              "RelativeDocumentMoniker": "RestBackup\\Program.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestBackup\\RestBackup\\Program.cs",
+              "RelativeToolTip": "RestBackup\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:17:39.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployService.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestBackup\\RestBackup\\Services\\IEmployService.cs",
+              "RelativeDocumentMoniker": "RestBackup\\Services\\IEmployService.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestBackup\\RestBackup\\Services\\IEmployService.cs",
+              "RelativeToolTip": "RestBackup\\Services\\IEmployService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:15:53.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployService.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestBackup\\RestBackup\\Services\\EmployService.cs",
+              "RelativeDocumentMoniker": "RestBackup\\Services\\EmployService.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestBackup\\RestBackup\\Services\\EmployService.cs",
+              "RelativeToolTip": "RestBackup\\Services\\EmployService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:14:33.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RestEmployController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestBackup\\RestBackup\\Controllers\\RestEmployController.cs",
+              "RelativeDocumentMoniker": "RestBackup\\Controllers\\RestEmployController.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestBackup\\RestBackup\\Controllers\\RestEmployController.cs",
+              "RelativeToolTip": "RestBackup\\Controllers\\RestEmployController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:13:13.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestBackup\\RestBackup\\Models\\Employ.cs",
+              "RelativeDocumentMoniker": "RestBackup\\Models\\Employ.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestBackup\\RestBackup\\Models\\Employ.cs",
+              "RelativeToolTip": "RestBackup\\Models\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:11:44.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RestBackup",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestBackup\\RestBackup\\RestBackup.csproj",
+              "RelativeDocumentMoniker": "RestBackup\\RestBackup.csproj",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day27\\RestBackup\\RestBackup\\RestBackup.csproj",
+              "RelativeToolTip": "RestBackup\\RestBackup.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-21T10:11:18.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

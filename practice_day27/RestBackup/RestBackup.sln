@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestBackup", "RestBackup\RestBackup.csproj", "{20F66FC4-7384-41B6-9CE8-92E116934829}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestEmployCurd", "..\RestEmployCurd\RestEmployCurd.csproj", "{BF20A59D-C802-49B1-8C77-DE3F0BD55312}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20F66FC4-7384-41B6-9CE8-92E116934829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F66FC4-7384-41B6-9CE8-92E116934829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F66FC4-7384-41B6-9CE8-92E116934829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F66FC4-7384-41B6-9CE8-92E116934829}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF20A59D-C802-49B1-8C77-DE3F0BD55312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF20A59D-C802-49B1-8C77-DE3F0BD55312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF20A59D-C802-49B1-8C77-DE3F0BD55312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF20A59D-C802-49B1-8C77-DE3F0BD55312}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F7827E9-8DC9-4848-9EE6-550C893916DC}
+	EndGlobalSection
+EndGlobal
