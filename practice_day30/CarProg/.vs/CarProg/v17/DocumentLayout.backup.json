@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day30\\CarProg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73AC14CD-E3D8-41BB-94B3-F736C56D3031}|CarProg\\CarProg.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day30\\carprog\\carprog\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AC14CD-E3D8-41BB-94B3-F736C56D3031}|CarProg\\CarProg.csproj|solutionrelative:carprog\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AC14CD-E3D8-41BB-94B3-F736C56D3031}|CarProg\\CarProg.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day30\\carprog\\carprog\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AC14CD-E3D8-41BB-94B3-F736C56D3031}|CarProg\\CarProg.csproj|solutionrelative:carprog\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AC14CD-E3D8-41BB-94B3-F736C56D3031}|CarProg\\CarProg.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day30\\carprog\\carprog\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AC14CD-E3D8-41BB-94B3-F736C56D3031}|CarProg\\CarProg.csproj|solutionrelative:carprog\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AC14CD-E3D8-41BB-94B3-F736C56D3031}|CarProg\\CarProg.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day30\\carprog\\carprog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AC14CD-E3D8-41BB-94B3-F736C56D3031}|CarProg\\CarProg.csproj|solutionrelative:carprog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AC14CD-E3D8-41BB-94B3-F736C56D3031}|CarProg\\CarProg.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day30\\carprog\\carprog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73AC14CD-E3D8-41BB-94B3-F736C56D3031}|CarProg\\CarProg.csproj|solutionrelative:carprog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AC14CD-E3D8-41BB-94B3-F736C56D3031}|CarProg\\CarProg.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day30\\carprog\\carprog\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AC14CD-E3D8-41BB-94B3-F736C56D3031}|CarProg\\CarProg.csproj|solutionrelative:carprog\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AC14CD-E3D8-41BB-94B3-F736C56D3031}|CarProg\\CarProg.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day30\\carprog\\carprog\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AC14CD-E3D8-41BB-94B3-F736C56D3031}|CarProg\\CarProg.csproj|solutionrelative:carprog\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AC14CD-E3D8-41BB-94B3-F736C56D3031}|CarProg\\CarProg.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day30\\carprog\\carprog\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AC14CD-E3D8-41BB-94B3-F736C56D3031}|CarProg\\CarProg.csproj|solutionrelative:carprog\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AC14CD-E3D8-41BB-94B3-F736C56D3031}|CarProg\\CarProg.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day30\\carprog\\carprog\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AC14CD-E3D8-41BB-94B3-F736C56D3031}|CarProg\\CarProg.csproj|solutionrelative:carprog\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AC14CD-E3D8-41BB-94B3-F736C56D3031}|CarProg\\CarProg.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day30\\carprog\\carprog\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AC14CD-E3D8-41BB-94B3-F736C56D3031}|CarProg\\CarProg.csproj|solutionrelative:carprog\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AC14CD-E3D8-41BB-94B3-F736C56D3031}|CarProg\\CarProg.csproj|c:\\users\\victo\\downloads\\wipro_training\\practice_day30\\carprog\\carprog\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AC14CD-E3D8-41BB-94B3-F736C56D3031}|CarProg\\CarProg.csproj|solutionrelative:carprog\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day30\\CarProg\\CarProg\\Program.cs",
+              "RelativeDocumentMoniker": "CarProg\\Program.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day30\\CarProg\\CarProg\\Program.cs",
+              "RelativeToolTip": "CarProg\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:24:48.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day30\\CarProg\\CarProg\\appsettings.json",
+              "RelativeDocumentMoniker": "CarProg\\appsettings.json",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day30\\CarProg\\CarProg\\appsettings.json",
+              "RelativeToolTip": "CarProg\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-25T07:23:40.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day30\\CarProg\\CarProg\\Models\\AuthService.cs",
+              "RelativeDocumentMoniker": "CarProg\\Models\\AuthService.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day30\\CarProg\\CarProg\\Models\\AuthService.cs",
+              "RelativeToolTip": "CarProg\\Models\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:18:20.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day30\\CarProg\\CarProg\\Models\\IAuthService.cs",
+              "RelativeDocumentMoniker": "CarProg\\Models\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day30\\CarProg\\CarProg\\Models\\IAuthService.cs",
+              "RelativeToolTip": "CarProg\\Models\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:15:12.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day30\\CarProg\\CarProg\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "CarProg\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day30\\CarProg\\CarProg\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "CarProg\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:13:36.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehiclesController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day30\\CarProg\\CarProg\\Controllers\\VehiclesController.cs",
+              "RelativeDocumentMoniker": "CarProg\\Controllers\\VehiclesController.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day30\\CarProg\\CarProg\\Controllers\\VehiclesController.cs",
+              "RelativeToolTip": "CarProg\\Controllers\\VehiclesController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAswBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:33:50.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day30\\CarProg\\CarProg\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "CarProg\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day30\\CarProg\\CarProg\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "CarProg\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:12:50.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day30\\CarProg\\CarProg\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "CarProg\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day30\\CarProg\\CarProg\\Controllers\\CustomersController.cs*",
+              "RelativeToolTip": "CarProg\\Controllers\\CustomersController.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:28:36.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day30\\CarProg\\CarProg\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "CarProg\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day30\\CarProg\\CarProg\\Models\\Users.cs",
+              "RelativeToolTip": "CarProg\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:12:00.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day30\\CarProg\\CarProg\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CarProg\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day30\\CarProg\\CarProg\\Models\\Customer.cs",
+              "RelativeToolTip": "CarProg\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:52:39.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day30\\CarProg\\CarProg\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "CarProg\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\practice_day30\\CarProg\\CarProg\\Models\\Vehicle.cs",
+              "RelativeToolTip": "CarProg\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:44:28.414Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

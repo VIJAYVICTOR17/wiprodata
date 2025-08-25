@@ -1,0 +1,6 @@
+@CarProgGithub_HostAddress = http://localhost:5270
+
+GET {{CarProgGithub_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

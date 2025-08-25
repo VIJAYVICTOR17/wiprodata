@@ -1,0 +1,6 @@
+@CarProg_HostAddress = http://localhost:5244
+
+GET {{CarProg_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
