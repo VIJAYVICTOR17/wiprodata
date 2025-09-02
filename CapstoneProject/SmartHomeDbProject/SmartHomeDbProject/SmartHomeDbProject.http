@@ -1,0 +1,6 @@
+@SmartHomeDbProject_HostAddress = http://localhost:5278
+
+GET {{SmartHomeDbProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

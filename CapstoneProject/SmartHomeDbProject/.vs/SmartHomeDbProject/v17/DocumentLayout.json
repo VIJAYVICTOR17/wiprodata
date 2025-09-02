@@ -1,0 +1,335 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|c:\\users\\victo\\downloads\\wipro_training\\capstoneproject\\smarthomedbproject\\smarthomedbproject\\models\\sensorbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|solutionrelative:smarthomedbproject\\models\\sensorbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|c:\\users\\victo\\downloads\\wipro_training\\capstoneproject\\smarthomedbproject\\smarthomedbproject\\models\\devices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|solutionrelative:smarthomedbproject\\models\\devices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|c:\\users\\victo\\downloads\\wipro_training\\capstoneproject\\smarthomedbproject\\smarthomedbproject\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|solutionrelative:smarthomedbproject\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|c:\\users\\victo\\downloads\\wipro_training\\capstoneproject\\smarthomedbproject\\smarthomedbproject\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|solutionrelative:smarthomedbproject\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|c:\\users\\victo\\downloads\\wipro_training\\capstoneproject\\smarthomedbproject\\smarthomedbproject\\models\\sensorsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|solutionrelative:smarthomedbproject\\models\\sensorsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|c:\\users\\victo\\downloads\\wipro_training\\capstoneproject\\smarthomedbproject\\smarthomedbproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|solutionrelative:smarthomedbproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|c:\\users\\victo\\downloads\\wipro_training\\capstoneproject\\smarthomedbproject\\smarthomedbproject\\models\\smarthomedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|solutionrelative:smarthomedbproject\\models\\smarthomedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|c:\\users\\victo\\downloads\\wipro_training\\capstoneproject\\smarthomedbproject\\smarthomedbproject\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|solutionrelative:smarthomedbproject\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|c:\\users\\victo\\downloads\\wipro_training\\capstoneproject\\smarthomedbproject\\smarthomedbproject\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|solutionrelative:smarthomedbproject\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|c:\\users\\victo\\downloads\\wipro_training\\capstoneproject\\smarthomedbproject\\smarthomedbproject\\models\\controllog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|solutionrelative:smarthomedbproject\\models\\controllog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|c:\\users\\victo\\downloads\\wipro_training\\capstoneproject\\smarthomedbproject\\smarthomedbproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|solutionrelative:smarthomedbproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|c:\\users\\victo\\downloads\\wipro_training\\capstoneproject\\smarthomedbproject\\smarthomedbproject\\controllers\\sensorsdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|solutionrelative:smarthomedbproject\\controllers\\sensorsdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|c:\\users\\victo\\downloads\\wipro_training\\capstoneproject\\smarthomedbproject\\smarthomedbproject\\controllers\\controllogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|solutionrelative:smarthomedbproject\\controllers\\controllogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|c:\\users\\victo\\downloads\\wipro_training\\capstoneproject\\smarthomedbproject\\smarthomedbproject\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|solutionrelative:smarthomedbproject\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|c:\\users\\victo\\downloads\\wipro_training\\capstoneproject\\smarthomedbproject\\smarthomedbproject\\models\\notifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|solutionrelative:smarthomedbproject\\models\\notifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|c:\\users\\victo\\downloads\\wipro_training\\capstoneproject\\smarthomedbproject\\smarthomedbproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|solutionrelative:smarthomedbproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|c:\\users\\victo\\downloads\\wipro_training\\capstoneproject\\smarthomedbproject\\smarthomedbproject\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|solutionrelative:smarthomedbproject\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|c:\\users\\victo\\downloads\\wipro_training\\capstoneproject\\smarthomedbproject\\smarthomedbproject\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|solutionrelative:smarthomedbproject\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|c:\\users\\victo\\downloads\\wipro_training\\capstoneproject\\smarthomedbproject\\smarthomedbproject\\controllers\\devicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF4C2EB-2BF3-4BFB-9D79-D4E7EEB11207}|SmartHomeDbProject\\SmartHomeDbProject.csproj|solutionrelative:smarthomedbproject\\controllers\\devicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SensorBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Models\\SensorBackgroundService.cs",
+              "RelativeDocumentMoniker": "SmartHomeDbProject\\Models\\SensorBackgroundService.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Models\\SensorBackgroundService.cs",
+              "RelativeToolTip": "SmartHomeDbProject\\Models\\SensorBackgroundService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T04:36:02.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "SmartHomeDbProject\\Controllers\\NotificationsController.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "SmartHomeDbProject\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T08:05:24.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Notifications.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Models\\Notifications.cs",
+              "RelativeDocumentMoniker": "SmartHomeDbProject\\Models\\Notifications.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Models\\Notifications.cs",
+              "RelativeToolTip": "SmartHomeDbProject\\Models\\Notifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T07:58:06.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "SmartHomeDbProject\\Models\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "SmartHomeDbProject\\Models\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T05:51:55.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ControlLogsController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Controllers\\ControlLogsController.cs",
+              "RelativeDocumentMoniker": "SmartHomeDbProject\\Controllers\\ControlLogsController.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Controllers\\ControlLogsController.cs",
+              "RelativeToolTip": "SmartHomeDbProject\\Controllers\\ControlLogsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T05:24:40.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ControlLog.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Models\\ControlLog.cs",
+              "RelativeDocumentMoniker": "SmartHomeDbProject\\Models\\ControlLog.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Models\\ControlLog.cs",
+              "RelativeToolTip": "SmartHomeDbProject\\Models\\ControlLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T05:19:41.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SensorsDataController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Controllers\\SensorsDataController.cs",
+              "RelativeDocumentMoniker": "SmartHomeDbProject\\Controllers\\SensorsDataController.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Controllers\\SensorsDataController.cs",
+              "RelativeToolTip": "SmartHomeDbProject\\Controllers\\SensorsDataController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T03:19:25.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SensorsData.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Models\\SensorsData.cs",
+              "RelativeDocumentMoniker": "SmartHomeDbProject\\Models\\SensorsData.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Models\\SensorsData.cs",
+              "RelativeToolTip": "SmartHomeDbProject\\Models\\SensorsData.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T17:56:44.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SmartHomeDbProject\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SmartHomeDbProject\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:30:43.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Program.cs",
+              "RelativeDocumentMoniker": "SmartHomeDbProject\\Program.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Program.cs",
+              "RelativeToolTip": "SmartHomeDbProject\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAHAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:24:02.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DevicesController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Controllers\\DevicesController.cs",
+              "RelativeDocumentMoniker": "SmartHomeDbProject\\Controllers\\DevicesController.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Controllers\\DevicesController.cs",
+              "RelativeToolTip": "SmartHomeDbProject\\Controllers\\DevicesController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwGUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:16:59.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartHomeDbProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\appsettings.json",
+              "RelativeToolTip": "SmartHomeDbProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T10:14:18.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Devices.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Models\\Devices.cs",
+              "RelativeDocumentMoniker": "SmartHomeDbProject\\Models\\Devices.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Models\\Devices.cs",
+              "RelativeToolTip": "SmartHomeDbProject\\Models\\Devices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:06:07.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SmartHomeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Models\\SmartHomeDbContext.cs",
+              "RelativeDocumentMoniker": "SmartHomeDbProject\\Models\\SmartHomeDbContext.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Models\\SmartHomeDbContext.cs",
+              "RelativeToolTip": "SmartHomeDbProject\\Models\\SmartHomeDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:57:55.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Models\\AuthService.cs",
+              "RelativeDocumentMoniker": "SmartHomeDbProject\\Models\\AuthService.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Models\\AuthService.cs",
+              "RelativeToolTip": "SmartHomeDbProject\\Models\\AuthService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:55:31.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Models\\IAuthService.cs",
+              "RelativeDocumentMoniker": "SmartHomeDbProject\\Models\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Models\\IAuthService.cs",
+              "RelativeToolTip": "SmartHomeDbProject\\Models\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:54:44.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "SmartHomeDbProject\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "SmartHomeDbProject\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:54:04.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "SmartHomeDbProject\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "SmartHomeDbProject\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:53:06.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "SmartHomeDbProject\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Wipro_Training\\CapstoneProject\\SmartHomeDbProject\\SmartHomeDbProject\\Models\\Users.cs",
+              "RelativeToolTip": "SmartHomeDbProject\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:51:07.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
